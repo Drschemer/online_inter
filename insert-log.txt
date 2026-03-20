@@ -1,0 +1,2094 @@
+insert checklist data|105|2025-09-15|100806024|dca1
+insert image data|105|2025-09-15|100806024|dca1
+insert Sum data|a|105|2025-09-15|sum 63|total 64|98.44 %|dca1
+insert checklist data|126|2025-09-15|100208002|qsc1
+insert image data|126|2025-09-15|100208002|qsc1
+insert Sum data|a|126|2025-09-15|sum 35|total 40|87.50 %|qsc1
+insert checklist data|126|2025-09-15|102301138|dca1
+insert image data|126|2025-09-15|102301138|dca1
+insert Sum data|a|126|2025-09-15|sum 62|total 66|93.94 %|dca1
+insert checklist data|203|2025-09-15|100101028|qsc1
+insert image data|203|2025-09-15|100101028|qsc1
+insert Sum data|a|203|2025-09-15|sum 35|total 36|97.22 %|qsc1
+insert checklist data|123|2025-09-15|101808522|qsc1
+insert image data|123|2025-09-15|101808522|qsc1
+insert Sum data|a|123|2025-09-15|sum 35|total 37|94.59 %|qsc1
+insert checklist data|123|2025-09-15|100806024|dca1
+insert image data|123|2025-09-15|100806024|dca1
+insert Sum data|a|123|2025-09-15|sum 51|total 57|89.47 %|dca1
+insert checklist data|256|2025-09-16|202101002|qscakg1
+insert image data|256|2025-09-16|202101002|qscakg1
+insert Sum data|a|256|2025-09-16|sum 32|total 35|91.43 %|qscakg1
+insert checklist data|111|2025-09-16|102301227|dca1
+insert image data|111|2025-09-16|102301227|dca1
+insert Sum data|a|111|2025-09-16|sum 62|total 66|93.94 %|dca1
+insert checklist data|101|2025-09-16|100806024|dca1
+insert image data|101|2025-09-16|100806024|dca1
+insert Sum data|a|101|2025-09-16|sum 60|total 66|90.91 %|dca1
+insert checklist data|251|2025-09-16|202101002|qscakg1
+insert image data|251|2025-09-16|202101002|qscakg1
+insert Sum data|a|251|2025-09-16|sum 35|total 35|100.00 %|qscakg1
+insert checklist data|101|2025-09-16|101412039|bcl1
+insert image data|101|2025-09-16|101412039|bcl1
+insert Sum data|a|101|2025-09-16|sum 31|total 35|88.57 %|bcl1
+insert checklist data|112|2025-09-17|102301138|dca1
+insert image data|112|2025-09-17|102301138|dca1
+insert Sum data|a|112|2025-09-17|sum 60|total 66|90.91 %|dca1
+insert checklist data|203|2025-09-17|100101028|qsc1
+insert image data|203|2025-09-17|100101028|qsc1
+insert Sum data|a|203|2025-09-17|sum 35|total 37|94.59 %|qsc1
+insert checklist data|112|2025-09-17|102301138|dca1
+insert image data|112|2025-09-17|102301138|dca1
+insert Sum data|a|112|2025-09-17|sum 57|total 59|96.61 %|dca1
+insert checklist data|125|2025-09-18|101405020|dca1
+insert image data|125|2025-09-18|101405020|dca1
+insert Sum data|a|125|2025-09-18|sum 52|total 54|96.30 %|dca1
+insert checklist data|123|2025-09-18|101808522|qsc1
+insert image data|123|2025-09-18|101808522|qsc1
+insert Sum data|a|123|2025-09-18|sum 36|total 37|97.30 %|qsc1
+insert checklist data|103|2025-09-18|100808028|qsc1
+insert image data|103|2025-09-18|100808028|qsc1
+insert Sum data|a|103|2025-09-18|sum 38|total 40|95.00 %|qsc1
+insert checklist data|201|2025-09-18|100101028|qsc1
+insert image data|201|2025-09-18|100101028|qsc1
+insert Sum data|a|201|2025-09-18|sum 36|total 37|97.30 %|qsc1
+insert checklist data|101|2025-09-19|100806024|dca1
+insert image data|101|2025-09-19|100806024|dca1
+insert Sum data|a|101|2025-09-19|sum 60|total 66|90.91 %|dca1
+insert checklist data|101|2025-09-19|100808028|qsc1
+insert image data|101|2025-09-19|100808028|qsc1
+insert Sum data|a|101|2025-09-19|sum 39|total 40|97.50 %|qsc1
+insert checklist data|103|2025-09-19|100808028|qsc1
+insert image data|103|2025-09-19|100808028|qsc1
+insert Sum data|a|103|2025-09-19|sum 39|total 40|97.50 %|qsc1
+insert checklist data|123|2025-09-20|100806024|dca1
+insert image data|123|2025-09-20|100806024|dca1
+insert Sum data|a|123|2025-09-20|sum 54|total 58|93.10 %|dca1
+insert checklist data|116|2025-09-20|111910006|bcl1
+insert image data|116|2025-09-20|111910006|bcl1
+insert Sum data|a|116|2025-09-20|sum 44|total 45|97.78 %|bcl1
+insert checklist data|123|2025-09-20|101808522|qsc1
+insert image data|123|2025-09-20|101808522|qsc1
+insert Sum data|a|123|2025-09-20|sum 36|total 37|97.30 %|qsc1
+insert checklist data|111|2025-09-20|100208002|qsc1
+insert image data|111|2025-09-20|100208002|qsc1
+insert Sum data|a|111|2025-09-20|sum 34|total 41|82.93 %|qsc1
+insert checklist data|106|2025-09-21|100808028|qsc1
+insert image data|106|2025-09-21|100808028|qsc1
+insert Sum data|a|106|2025-09-21|sum 38|total 40|95.00 %|qsc1
+insert checklist data|123|2025-09-21|101808522|qsc1
+insert image data|123|2025-09-21|101808522|qsc1
+insert Sum data|a|123|2025-09-21|sum 35|total 37|94.59 %|qsc1
+insert checklist data|107|2025-09-21|101405020|dca1
+insert image data|107|2025-09-21|101405020|dca1
+insert Sum data|a|107|2025-09-21|sum 61|total 66|92.42 %|dca1
+insert checklist data|116|2025-09-21|111910006|qsc1
+insert image data|116|2025-09-21|111910006|qsc1
+insert Sum data|a|116|2025-09-21|sum 40|total 42|95.24 %|qsc1
+insert checklist data|111|2025-09-21|100208002|qsc1
+insert image data|111|2025-09-21|100208002|qsc1
+insert Sum data|a|111|2025-09-21|sum 37|total 41|90.24 %|qsc1
+insert checklist data|125|2025-09-21|100808028|qsc1
+insert image data|125|2025-09-21|100808028|qsc1
+insert Sum data|a|125|2025-09-21|sum 22|total 23|95.65 %|qsc1
+insert checklist data|107|2025-09-21|101405020|dca1
+insert image data|107|2025-09-21|101405020|dca1
+insert Sum data|a|107|2025-09-21|sum 61|total 66|92.42 %|dca1
+insert checklist data|123|2025-09-21|100806024|dca1
+insert image data|123|2025-09-21|100806024|dca1
+insert Sum data|a|123|2025-09-21|sum 52|total 57|91.23 %|dca1
+insert checklist data|107|2025-09-22|100808028|qsc1
+insert image data|107|2025-09-22|100808028|qsc1
+insert Sum data|a|107|2025-09-22|sum 35|total 40|87.50 %|qsc1
+insert checklist data|111|2025-09-22|100208002|qsc1
+insert image data|111|2025-09-22|100208002|qsc1
+insert Sum data|a|111|2025-09-22|sum 36|total 41|87.80 %|qsc1
+insert checklist data|201|2025-09-22|100101028|qsc1
+insert image data|201|2025-09-22|100101028|qsc1
+insert Sum data|a|201|2025-09-22|sum 34|total 36|94.44 %|qsc1
+insert checklist data|105|2025-09-22|100806024|dca1
+insert image data|105|2025-09-22|100806024|dca1
+insert Sum data|a|105|2025-09-22|sum 60|total 65|92.31 %|dca1
+insert checklist data|123|2025-09-22|101808522|qsc1
+insert image data|123|2025-09-22|101808522|qsc1
+insert Sum data|a|123|2025-09-22|sum 35|total 37|94.59 %|qsc1
+insert checklist data|119|2025-09-23|102301138|dca1
+insert image data|119|2025-09-23|102301138|dca1
+insert Sum data|a|119|2025-09-23|sum 49|total 53|92.45 %|dca1
+insert checklist data|201|2025-09-14|202501013|dca1
+insert image data|201|2025-09-14|202501013|dca1
+insert Sum data|a|201|2025-09-14|sum 53|total 58|91.38 %|dca1
+insert checklist data|101|2025-09-23|100806024|dca1
+insert image data|101|2025-09-23|100806024|dca1
+insert Sum data|a|101|2025-09-23|sum 60|total 66|90.91 %|dca1
+insert checklist data|126|2025-09-23|102301138|dca1
+insert image data|126|2025-09-23|102301138|dca1
+insert Sum data|a|126|2025-09-23|sum 62|total 66|93.94 %|dca1
+insert checklist data|201|2025-09-23|202501013|dca1
+insert image data|201|2025-09-23|202501013|dca1
+insert Sum data|a|201|2025-09-23|sum 46|total 60|76.67 %|dca1
+insert checklist data|116|2025-09-24|101807511|dca1
+insert image data|116|2025-09-24|101807511|dca1
+insert Sum data|a|116|2025-09-24|sum 60|total 66|90.91 %|dca1
+insert checklist data|112|2025-09-24|102301138|dca1
+insert image data|112|2025-09-24|102301138|dca1
+insert Sum data|a|112|2025-09-24|sum 55|total 56|98.21 %|dca1
+insert checklist data|112|2025-09-24|102301138|dca1
+insert image data|112|2025-09-24|102301138|dca1
+insert Sum data|a|112|2025-09-24|sum 61|total 66|92.42 %|dca1
+insert checklist data|103|2025-09-24|100808028|qsc1
+insert image data|103|2025-09-24|100808028|qsc1
+insert Sum data|a|103|2025-09-24|sum 38|total 40|95.00 %|qsc1
+insert checklist data|401|2025-09-25|101808522|qscmbe1
+insert image data|401|2025-09-25|101808522|qscmbe1
+insert Sum data|a|401|2025-09-25|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|126|2025-09-25|100208002|qsc1
+insert image data|126|2025-09-25|100208002|qsc1
+insert Sum data|a|126|2025-09-25|sum 35|total 41|85.37 %|qsc1
+insert checklist data|125|2025-09-25|100808028|qsc1
+insert image data|125|2025-09-25|100808028|qsc1
+insert Sum data|a|125|2025-09-25|sum 21|total 22|95.45 %|qsc1
+insert checklist data|101|2025-09-25|100808028|qsc1
+insert image data|101|2025-09-25|100808028|qsc1
+insert Sum data|a|101|2025-09-25|sum 38|total 40|95.00 %|qsc1
+insert checklist data|251|2025-09-25|202101002|qscakg1
+insert image data|251|2025-09-25|202101002|qscakg1
+insert Sum data|a|251|2025-09-25|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|256|2025-09-25|202101002|qscakg1
+insert image data|256|2025-09-25|202101002|qscakg1
+insert Sum data|a|256|2025-09-25|sum 30|total 34|88.24 %|qscakg1
+insert checklist data|123|2025-09-26|101808522|qsc1
+insert image data|123|2025-09-26|101808522|qsc1
+insert Sum data|a|123|2025-09-26|sum 36|total 37|97.30 %|qsc1
+insert checklist data|106|2025-09-26|100808028|qsc1
+insert image data|106|2025-09-26|100808028|qsc1
+insert Sum data|a|106|2025-09-26|sum 38|total 40|95.00 %|qsc1
+insert checklist data|257|2025-09-26|202101002|qscakg1
+insert image data|257|2025-09-26|202101002|qscakg1
+insert Sum data|a|257|2025-09-26|sum 31|total 34|91.18 %|qscakg1
+insert checklist data|101|2025-09-27|100806024|dca1
+insert image data|101|2025-09-27|100806024|dca1
+insert Sum data|a|101|2025-09-27|sum 61|total 66|92.42 %|dca1
+insert checklist data|124|2025-09-27|102301138|dca1
+insert image data|124|2025-09-27|102301138|dca1
+insert Sum data|a|124|2025-09-27|sum 57|total 59|96.61 %|dca1
+insert checklist data|107|2025-09-27|100808028|qsc1
+insert image data|107|2025-09-27|100808028|qsc1
+insert Sum data|a|107|2025-09-27|sum 37|total 40|92.50 %|qsc1
+insert checklist data|116|2025-09-27|111910006|bcl1
+insert image data|116|2025-09-27|111910006|bcl1
+insert Sum data|a|116|2025-09-27|sum 43|total 45|95.56 %|bcl1
+insert checklist data|103|2025-09-27|100808028|qsc1
+insert image data|103|2025-09-27|100808028|qsc1
+insert Sum data|a|103|2025-09-27|sum 39|total 40|97.50 %|qsc1
+insert checklist data|119|2025-09-27|202101002|qsc1
+insert image data|119|2025-09-27|202101002|qsc1
+insert Sum data|a|119|2025-09-27|sum 36|total 36|100.00 %|qsc1
+insert checklist data|105|2025-09-28|100208002|qsc1
+insert image data|105|2025-09-28|100208002|qsc1
+insert Sum data|a|105|2025-09-28|sum 37|total 40|92.50 %|qsc1
+insert checklist data|101|2025-09-28|100806024|dca1
+insert image data|101|2025-09-28|100806024|dca1
+insert Sum data|a|101|2025-09-28|sum 61|total 66|92.42 %|dca1
+insert checklist data|119|2025-09-28|102301138|dca1
+insert image data|119|2025-09-28|102301138|dca1
+insert Sum data|a|119|2025-09-28|sum 46|total 47|97.87 %|dca1
+insert checklist data|123|2025-09-28|101808522|qsc1
+insert image data|123|2025-09-28|101808522|qsc1
+insert Sum data|a|123|2025-09-28|sum 35|total 37|94.59 %|qsc1
+insert checklist data|101|2025-09-28|100808028|qsc1
+insert image data|101|2025-09-28|100808028|qsc1
+insert Sum data|a|101|2025-09-28|sum 38|total 40|95.00 %|qsc1
+insert checklist data|116|2025-09-28|111910006|qsc1
+insert image data|116|2025-09-28|111910006|qsc1
+insert Sum data|a|116|2025-09-28|sum 37|total 42|88.10 %|qsc1
+insert checklist data|103|2025-09-28|100808028|qsc1
+insert image data|103|2025-09-28|100808028|qsc1
+insert Sum data|a|103|2025-09-28|sum 39|total 40|97.50 %|qsc1
+insert checklist data|125|2025-09-29|101405020|dca1
+insert image data|125|2025-09-29|101405020|dca1
+insert Sum data|a|125|2025-09-29|sum 53|total 54|98.15 %|dca1
+insert checklist data|125|2025-09-29|101405020|dca1
+insert image data|125|2025-09-29|101405020|dca1
+insert Sum data|a|125|2025-09-29|sum 53|total 54|98.15 %|dca1
+insert checklist data|125|2025-09-29|101405020|dca1
+insert image data|125|2025-09-29|101405020|dca1
+insert Sum data|a|125|2025-09-29|sum 53|total 54|98.15 %|dca1
+insert checklist data|107|2025-09-29|101405020|dca1
+insert image data|107|2025-09-29|101405020|dca1
+insert Sum data|a|107|2025-09-29|sum 61|total 66|92.42 %|dca1
+insert checklist data|123|2025-09-29|100806024|dca1
+insert image data|123|2025-09-29|100806024|dca1
+insert Sum data|a|123|2025-09-29|sum 57|total 60|95.00 %|dca1
+insert checklist data|251|2025-09-29|202101002|qscakg1
+insert image data|251|2025-09-29|202101002|qscakg1
+insert Sum data|a|251|2025-09-29|sum 33|total 35|94.29 %|qscakg1
+insert checklist data|401|2025-09-30|101808522|qscmbe1
+insert image data|401|2025-09-30|101808522|qscmbe1
+insert Sum data|a|401|2025-09-30|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|401|2025-09-30|101808522|qscmbe1
+insert image data|401|2025-09-30|101808522|qscmbe1
+insert Sum data|a|401|2025-09-30|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|255|2025-09-30|202101002|qscakg1
+insert image data|255|2025-09-30|202101002|qscakg1
+insert Sum data|a|255|2025-09-30|sum 32|total 34|94.12 %|qscakg1
+insert checklist data|103|2025-09-30|100808028|qsc1
+insert image data|103|2025-09-30|100808028|qsc1
+insert Sum data|a|103|2025-09-30|sum 38|total 40|95.00 %|qsc1
+insert checklist data|123|2025-10-01|101808522|qsc1
+insert image data|123|2025-10-01|101808522|qsc1
+insert Sum data|a|123|2025-10-01|sum 35|total 37|94.59 %|qsc1
+insert checklist data|125|2025-10-01|100808028|qsc1
+insert image data|125|2025-10-01|100808028|qsc1
+insert Sum data|a|125|2025-10-01|sum 24|total 25|96.00 %|qsc1
+insert checklist data|123|2025-10-01|100806024|dca1
+insert image data|123|2025-10-01|100806024|dca1
+insert Sum data|a|123|2025-10-01|sum 52|total 57|91.23 %|dca1
+insert checklist data|203|2025-10-01|202501013|dca1
+insert image data|203|2025-10-01|202501013|dca1
+insert Sum data|a|203|2025-10-01|sum 50|total 54|92.59 %|dca1
+insert checklist data|106|2025-10-01|100808028|qsc1
+insert image data|106|2025-10-01|100808028|qsc1
+insert Sum data|a|106|2025-10-01|sum 37|total 40|92.50 %|qsc1
+insert checklist data|123|2025-10-03|101808522|qsc1
+insert image data|123|2025-10-03|101808522|qsc1
+insert Sum data|a|123|2025-10-03|sum 35|total 37|94.59 %|qsc1
+insert checklist data|119|2025-10-03|102301138|dca1
+insert image data|119|2025-10-03|102301138|dca1
+insert Sum data|a|119|2025-10-03|sum 45|total 47|95.74 %|dca1
+insert checklist data|123|2025-10-03|100806024|dca1
+insert image data|123|2025-10-03|100806024|dca1
+insert Sum data|a|123|2025-10-03|sum 53|total 58|91.38 %|dca1
+insert checklist data|112|2025-10-04|100208002|qsc1
+insert image data|112|2025-10-04|100208002|qsc1
+insert Sum data|a|112|2025-10-04|sum 35|total 41|85.37 %|qsc1
+insert checklist data|250|2025-10-04|202101002|qscakg1
+insert image data|250|2025-10-04|202101002|qscakg1
+insert Sum data|a|250|2025-10-04|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|126|2025-10-05|100208002|qsc1
+insert image data|126|2025-10-05|100208002|qsc1
+insert Sum data|a|126|2025-10-05|sum 36|total 41|87.80 %|qsc1
+insert checklist data|116|2025-10-05|111910006|qsc1
+insert image data|116|2025-10-05|111910006|qsc1
+insert Sum data|a|116|2025-10-05|sum 39|total 42|92.86 %|qsc1
+insert checklist data|126|2025-10-05|102301138|dca1
+insert image data|126|2025-10-05|102301138|dca1
+insert Sum data|a|126|2025-10-05|sum 62|total 66|93.94 %|dca1
+insert checklist data|116|2025-10-05|111910006|bcl1
+insert image data|116|2025-10-05|111910006|bcl1
+insert Sum data|a|116|2025-10-05|sum 41|total 45|91.11 %|bcl1
+insert checklist data|105|2025-10-06|100208002|qsc1
+insert image data|105|2025-10-06|100208002|qsc1
+insert Sum data|a|105|2025-10-06|sum 36|total 41|87.80 %|qsc1
+insert checklist data|123|2025-10-06|101808522|qsc1
+insert image data|123|2025-10-06|101808522|qsc1
+insert Sum data|a|123|2025-10-06|sum 36|total 36|100.00 %|qsc1
+insert checklist data|257|2025-10-06|202101002|qscakg1
+insert image data|257|2025-10-06|202101002|qscakg1
+insert Sum data|a|257|2025-10-06|sum 31|total 34|91.18 %|qscakg1
+insert checklist data|107|2025-10-07|101405020|dca1
+insert image data|107|2025-10-07|101405020|dca1
+insert Sum data|a|107|2025-10-07|sum 60|total 66|90.91 %|dca1
+insert checklist data|126|2025-10-07|100208002|qsc1
+insert image data|126|2025-10-07|100208002|qsc1
+insert Sum data|a|126|2025-10-07|sum 36|total 41|87.80 %|qsc1
+insert checklist data|107|2025-10-07|101405020|dca1
+insert image data|107|2025-10-07|101405020|dca1
+insert Sum data|a|107|2025-10-07|sum 60|total 66|90.91 %|dca1
+insert checklist data|103|2025-10-07|101405020|dca1
+insert image data|103|2025-10-07|101405020|dca1
+insert Sum data|a|103|2025-10-07|sum 64|total 66|96.97 %|dca1
+insert checklist data|201|2025-10-07|202501013|dca1
+insert image data|201|2025-10-07|202501013|dca1
+insert Sum data|a|201|2025-10-07|sum 50|total 59|84.75 %|dca1
+insert checklist data|103|2025-10-07|101405020|dca1
+insert image data|103|2025-10-07|101405020|dca1
+insert Sum data|a|103|2025-10-07|sum 64|total 66|96.97 %|dca1
+insert checklist data|125|2025-10-08|101405020|dca1
+insert image data|125|2025-10-08|101405020|dca1
+insert Sum data|a|125|2025-10-08|sum 55|total 55|100.00 %|dca1
+insert checklist data|401|2025-10-08|101808522|qscmbe1
+insert image data|401|2025-10-08|101808522|qscmbe1
+insert Sum data|a|401|2025-10-08|sum 34|total 34|100.00 %|qscmbe1
+insert checklist data|125|2025-10-08|101405020|dca1
+insert image data|125|2025-10-08|101405020|dca1
+insert Sum data|a|125|2025-10-08|sum 55|total 55|100.00 %|dca1
+insert checklist data|203|2025-10-08|100101028|qsc1
+insert image data|203|2025-10-08|100101028|qsc1
+insert Sum data|a|203|2025-10-08|sum 39|total 40|97.50 %|qsc1
+insert checklist data|106|2025-10-08|101405020|dca1
+insert image data|106|2025-10-08|101405020|dca1
+insert Sum data|a|106|2025-10-08|sum 63|total 66|95.45 %|dca1
+insert checklist data|106|2025-10-08|101405020|dca1
+insert image data|106|2025-10-08|101405020|dca1
+insert Sum data|a|106|2025-10-08|sum 63|total 66|95.45 %|dca1
+insert checklist data|256|2025-10-08|202101002|qscakg1
+insert image data|256|2025-10-08|202101002|qscakg1
+insert Sum data|a|256|2025-10-08|sum 32|total 35|91.43 %|qscakg1
+insert checklist data|124|2025-10-09|102301138|dca1
+insert image data|124|2025-10-09|102301138|dca1
+insert Sum data|a|124|2025-10-09|sum 58|total 59|98.31 %|dca1
+insert checklist data|126|2025-10-09|100208002|qsc1
+insert image data|126|2025-10-09|100208002|qsc1
+insert Sum data|a|126|2025-10-09|sum 36|total 41|87.80 %|qsc1
+insert checklist data|401|2025-10-09|101808522|qscmbe1
+insert image data|401|2025-10-09|101808522|qscmbe1
+insert Sum data|a|401|2025-10-09|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|112|2025-10-09|102301138|dca1
+insert image data|112|2025-10-09|102301138|dca1
+insert Sum data|a|112|2025-10-09|sum 63|total 66|95.45 %|dca1
+insert checklist data|123|2025-10-09|101808522|qsc1
+insert image data|123|2025-10-09|101808522|qsc1
+insert Sum data|a|123|2025-10-09|sum 35|total 37|94.59 %|qsc1
+insert checklist data|103|2025-10-09|100808028|qsc1
+insert image data|103|2025-10-09|100808028|qsc1
+insert Sum data|a|103|2025-10-09|sum 38|total 40|95.00 %|qsc1
+insert checklist data|105|2025-10-10|100208002|qsc1
+insert image data|105|2025-10-10|100208002|qsc1
+insert Sum data|a|105|2025-10-10|sum 35|total 40|87.50 %|qsc1
+insert checklist data|204|2025-10-10|100101028|qsc1
+insert image data|204|2025-10-10|100101028|qsc1
+insert Sum data|a|204|2025-10-10|sum 39|total 40|97.50 %|qsc1
+insert checklist data|106|2025-10-11|100808028|qsc1
+insert image data|106|2025-10-11|100808028|qsc1
+insert Sum data|a|106|2025-10-11|sum 43|total 44|97.73 %|qsc1
+insert checklist data|125|2025-10-11|100808028|qsc1
+insert image data|125|2025-10-11|100808028|qsc1
+insert Sum data|a|125|2025-10-11|sum 26|total 27|96.30 %|qsc1
+insert checklist data|201|2025-10-11|202501013|dca1
+insert image data|201|2025-10-11|202501013|dca1
+insert Sum data|a|201|2025-10-11|sum 50|total 61|81.97 %|dca1
+insert checklist data|203|2025-10-12|100101028|qsc1
+insert image data|203|2025-10-12|100101028|qsc1
+insert Sum data|a|203|2025-10-12|sum 41|total 42|97.62 %|qsc1
+insert checklist data|107|2025-10-12|100808028|qsc1
+insert image data|107|2025-10-12|100808028|qsc1
+insert Sum data|a|107|2025-10-12|sum 43|total 44|97.73 %|qsc1
+insert checklist data|116|2025-10-13|111910006|qsc1
+insert image data|116|2025-10-13|111910006|qsc1
+insert Sum data|a|116|2025-10-13|sum 43|total 46|93.48 %|qsc1
+insert checklist data|203|2025-10-13|100101028|qsc1
+insert image data|203|2025-10-13|100101028|qsc1
+insert Sum data|a|203|2025-10-13|sum 42|total 43|97.67 %|qsc1
+insert checklist data|111|2025-10-13|102301227|dca1
+insert image data|111|2025-10-13|102301227|dca1
+insert Sum data|a|111|2025-10-13|sum 63|total 66|95.45 %|dca1
+insert checklist data|111|2025-10-13|102301227|dca1
+insert image data|111|2025-10-13|102301227|dca1
+insert Sum data|a|111|2025-10-13|sum 63|total 66|95.45 %|dca1
+insert checklist data|203|2025-10-14|100101028|qsc1
+insert image data|203|2025-10-14|100101028|qsc1
+insert Sum data|a|203|2025-10-14|sum 43|total 44|97.73 %|qsc1
+insert checklist data|119|2025-10-14|102301138|dca1
+insert image data|119|2025-10-14|102301138|dca1
+insert Sum data|a|119|2025-10-14|sum 49|total 50|98.00 %|dca1
+insert checklist data|105|2025-10-14|100208002|qsc1
+insert image data|105|2025-10-14|100208002|qsc1
+insert Sum data|a|105|2025-10-14|sum 41|total 45|91.11 %|qsc1
+insert checklist data|116|2025-10-14|101807511|dca1
+insert image data|116|2025-10-14|101807511|dca1
+insert Sum data|a|116|2025-10-14|sum 62|total 66|93.94 %|dca1
+insert checklist data|116|2025-10-14|101807511|dca1
+insert image data|116|2025-10-14|101807511|dca1
+insert Sum data|a|116|2025-10-14|sum 62|total 66|93.94 %|dca1
+insert checklist data|124|2025-10-14|102301138|dca1
+insert image data|124|2025-10-14|102301138|dca1
+insert Sum data|a|124|2025-10-14|sum 58|total 59|98.31 %|dca1
+insert checklist data|112|2025-10-14|102301138|dca1
+insert image data|112|2025-10-14|102301138|dca1
+insert Sum data|a|112|2025-10-14|sum 65|total 66|98.48 %|dca1
+insert checklist data|116|2025-10-14|111910006|bcl1
+insert image data|116|2025-10-14|111910006|bcl1
+insert Sum data|a|116|2025-10-14|sum 43|total 45|95.56 %|bcl1
+insert checklist data|103|2025-10-14|100808028|qsc1
+insert image data|103|2025-10-14|100808028|qsc1
+insert Sum data|a|103|2025-10-14|sum 43|total 44|97.73 %|qsc1
+insert checklist data|203|2025-10-15|100101028|qsc1
+insert image data|203|2025-10-15|100101028|qsc1
+insert Sum data|a|203|2025-10-15|sum 42|total 43|97.67 %|qsc1
+insert checklist data|123|2025-10-15|101808522|qsc1
+insert image data|123|2025-10-15|101808522|qsc1
+insert Sum data|a|123|2025-10-15|sum 39|total 41|95.12 %|qsc1
+insert checklist data|401|2025-10-16|101808522|qscmbe1
+insert image data|401|2025-10-16|101808522|qscmbe1
+insert Sum data|a|401|2025-10-16|sum 33|total 33|100.00 %|qscmbe1
+insert checklist data|203|2025-10-16|100101028|qsc1
+insert image data|203|2025-10-16|100101028|qsc1
+insert Sum data|a|203|2025-10-16|sum 41|total 42|97.62 %|qsc1
+insert checklist data|125|2025-10-16|100808028|qsc1
+insert image data|125|2025-10-16|100808028|qsc1
+insert Sum data|a|125|2025-10-16|sum 27|total 28|96.43 %|qsc1
+insert checklist data|126|2025-10-16|102301138|dca1
+insert image data|126|2025-10-16|102301138|dca1
+insert Sum data|a|126|2025-10-16|sum 64|total 66|96.97 %|dca1
+insert checklist data|251|2025-10-16|202101002|qscakg1
+insert image data|251|2025-10-16|202101002|qscakg1
+insert Sum data|a|251|2025-10-16|sum 32|total 34|94.12 %|qscakg1
+insert checklist data|106|2025-10-16|100808028|qsc1
+insert image data|106|2025-10-16|100808028|qsc1
+insert Sum data|a|106|2025-10-16|sum 43|total 44|97.73 %|qsc1
+insert checklist data|201|2025-10-16|202501013|dca1
+insert image data|201|2025-10-16|202501013|dca1
+insert Sum data|a|201|2025-10-16|sum 50|total 60|83.33 %|dca1
+insert checklist data|256|2025-10-16|202101002|qscakg1
+insert image data|256|2025-10-16|202101002|qscakg1
+insert Sum data|a|256|2025-10-16|sum 30|total 34|88.24 %|qscakg1
+insert checklist data|401|2025-10-17|101808522|qscmbe1
+insert image data|401|2025-10-17|101808522|qscmbe1
+insert Sum data|a|401|2025-10-17|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|103|2025-10-17|100808028|qsc1
+insert image data|103|2025-10-17|100808028|qsc1
+insert Sum data|a|103|2025-10-17|sum 42|total 44|95.45 %|qsc1
+insert checklist data|111|2025-10-17|100208002|qsc1
+insert image data|111|2025-10-17|100208002|qsc1
+insert Sum data|a|111|2025-10-17|sum 38|total 45|84.44 %|qsc1
+insert checklist data|125|2025-10-18|101405020|dca1
+insert image data|125|2025-10-18|101405020|dca1
+insert Sum data|a|125|2025-10-18|sum 50|total 54|92.59 %|dca1
+insert checklist data|255|2025-10-18|202101002|qscakg1
+insert image data|255|2025-10-18|202101002|qscakg1
+insert Sum data|a|255|2025-10-18|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|101|2025-10-18|100808028|qsc1
+insert image data|101|2025-10-18|100808028|qsc1
+insert Sum data|a|101|2025-10-18|sum 41|total 44|93.18 %|qsc1
+insert checklist data|111|2025-10-18|100208002|qsc1
+insert image data|111|2025-10-18|100208002|qsc1
+insert Sum data|a|111|2025-10-18|sum 40|total 45|88.89 %|qsc1
+insert checklist data|124|2025-10-18|102301138|dca1
+insert image data|124|2025-10-18|102301138|dca1
+insert Sum data|a|124|2025-10-18|sum 59|total 59|100.00 %|dca1
+insert checklist data|107|2025-10-18|100808028|qsc1
+insert image data|107|2025-10-18|100808028|qsc1
+insert Sum data|a|107|2025-10-18|sum 43|total 44|97.73 %|qsc1
+insert checklist data|252|2025-10-18|202101002|qscakg1
+insert image data|252|2025-10-18|202101002|qscakg1
+insert Sum data|a|252|2025-10-18|sum 32|total 34|94.12 %|qscakg1
+insert checklist data|201|2025-10-19|202501013|dca1
+insert image data|201|2025-10-19|202501013|dca1
+insert Sum data|a|201|2025-10-19|sum 49|total 61|80.33 %|dca1
+insert checklist data|123|2025-10-19|101808522|qsc1
+insert image data|123|2025-10-19|101808522|qsc1
+insert Sum data|a|123|2025-10-19|sum 40|total 41|97.56 %|qsc1
+insert checklist data|103|2025-10-19|100808028|qsc1
+insert image data|103|2025-10-19|100808028|qsc1
+insert Sum data|a|103|2025-10-19|sum 41|total 43|95.35 %|qsc1
+insert checklist data|123|2025-10-19|100806024|dca1
+insert image data|123|2025-10-19|100806024|dca1
+insert Sum data|a|123|2025-10-19|sum 55|total 58|94.83 %|dca1
+insert checklist data|254|2025-10-19|202101002|qscakg1
+insert image data|254|2025-10-19|202101002|qscakg1
+insert Sum data|a|254|2025-10-19|sum 32|total 34|94.12 %|qscakg1
+insert checklist data|203|2025-10-20|100101028|qsc1
+insert image data|203|2025-10-20|100101028|qsc1
+insert Sum data|a|203|2025-10-20|sum 42|total 43|97.67 %|qsc1
+insert checklist data|401|2025-10-20|101808522|qscmbe1
+insert image data|401|2025-10-20|101808522|qscmbe1
+insert Sum data|a|401|2025-10-20|sum 32|total 34|94.12 %|qscmbe1
+insert checklist data|256|2025-10-20|202101002|qscakg1
+insert image data|256|2025-10-20|202101002|qscakg1
+insert Sum data|a|256|2025-10-20|sum 33|total 35|94.29 %|qscakg1
+insert checklist data|255|2025-10-20|202101002|qscakg1
+insert image data|255|2025-10-20|202101002|qscakg1
+insert Sum data|a|255|2025-10-20|sum 33|total 35|94.29 %|qscakg1
+insert checklist data|126|2025-10-21|102301138|dca1
+insert image data|126|2025-10-21|102301138|dca1
+insert Sum data|a|126|2025-10-21|sum 63|total 66|95.45 %|dca1
+insert checklist data|126|2025-10-21|100208002|qsc1
+insert image data|126|2025-10-21|100208002|qsc1
+insert Sum data|a|126|2025-10-21|sum 40|total 45|88.89 %|qsc1
+insert checklist data|101|2025-10-21|100806024|dca1
+insert image data|101|2025-10-21|100806024|dca1
+insert Sum data|a|101|2025-10-21|sum 63|total 66|95.45 %|dca1
+insert checklist data|112|2025-10-21|102301138|dca1
+insert image data|112|2025-10-21|102301138|dca1
+insert Sum data|a|112|2025-10-21|sum 61|total 66|92.42 %|dca1
+insert checklist data|106|2025-10-21|100808028|qsc1
+insert image data|106|2025-10-21|100808028|qsc1
+insert Sum data|a|106|2025-10-21|sum 43|total 44|97.73 %|qsc1
+insert checklist data|123|2025-10-21|101808522|qsc1
+insert image data|123|2025-10-21|101808522|qsc1
+insert Sum data|a|123|2025-10-21|sum 39|total 41|95.12 %|qsc1
+insert checklist data|119|2025-10-22|102301138|dca1
+insert image data|119|2025-10-22|102301138|dca1
+insert Sum data|a|119|2025-10-22|sum 47|total 50|94.00 %|dca1
+insert checklist data|105|2025-10-22|100806024|dca1
+insert image data|105|2025-10-22|100806024|dca1
+insert Sum data|a|105|2025-10-22|sum 63|total 65|96.92 %|dca1
+insert checklist data|125|2025-10-22|100808028|qsc1
+insert image data|125|2025-10-22|100808028|qsc1
+insert Sum data|a|125|2025-10-22|sum 26|total 27|96.30 %|qsc1
+insert checklist data|103|2025-10-22|101405020|dca1
+insert image data|103|2025-10-22|101405020|dca1
+insert Sum data|a|103|2025-10-22|sum 62|total 66|93.94 %|dca1
+insert checklist data|103|2025-10-22|100808028|qsc1
+insert image data|103|2025-10-22|100808028|qsc1
+insert Sum data|a|103|2025-10-22|sum 42|total 44|95.45 %|qsc1
+insert checklist data|101|2025-10-23|100808028|qsc1
+insert image data|101|2025-10-23|100808028|qsc1
+insert Sum data|a|101|2025-10-23|sum 43|total 44|97.73 %|qsc1
+insert checklist data|126|2025-10-23|100208002|qsc1
+insert image data|126|2025-10-23|100208002|qsc1
+insert Sum data|a|126|2025-10-23|sum 40|total 45|88.89 %|qsc1
+insert checklist data|107|2025-10-23|100808028|qsc1
+insert image data|107|2025-10-23|100808028|qsc1
+insert Sum data|a|107|2025-10-23|sum 43|total 44|97.73 %|qsc1
+insert checklist data|111|2025-10-23|101505062|qsc1
+insert image data|111|2025-10-23|101505062|qsc1
+insert Sum data|a|111|2025-10-23|sum 44|total 46|95.65 %|qsc1
+insert checklist data|111|2025-10-23|101505062|bcl1
+insert image data|111|2025-10-23|101505062|bcl1
+insert Sum data|a|111|2025-10-23|sum 44|total 45|97.78 %|bcl1
+insert checklist data|401|2025-10-24|101808522|qscmbe1
+insert image data|401|2025-10-24|101808522|qscmbe1
+insert Sum data|a|401|2025-10-24|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|126|2025-10-24|102301138|dca1
+insert image data|126|2025-10-24|102301138|dca1
+insert Sum data|a|126|2025-10-24|sum 65|total 66|98.48 %|dca1
+insert checklist data|112|2025-10-24|100208002|qsc1
+insert image data|112|2025-10-24|100208002|qsc1
+insert Sum data|a|112|2025-10-24|sum 43|total 45|95.56 %|qsc1
+insert checklist data|103|2025-10-24|100808028|qsc1
+insert image data|103|2025-10-24|100808028|qsc1
+insert Sum data|a|103|2025-10-24|sum 42|total 44|95.45 %|qsc1
+insert checklist data|123|2025-10-24|101808522|qsc1
+insert image data|123|2025-10-24|101808522|qsc1
+insert Sum data|a|123|2025-10-24|sum 40|total 41|97.56 %|qsc1
+insert checklist data|251|2025-10-25|202101002|qscakg1
+insert image data|251|2025-10-25|202101002|qscakg1
+insert Sum data|a|251|2025-10-25|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|116|2025-10-25|111910006|bcl1
+insert image data|116|2025-10-25|111910006|bcl1
+insert Sum data|a|116|2025-10-25|sum 43|total 45|95.56 %|bcl1
+insert checklist data|101|2025-10-25|100808028|qsc1
+insert image data|101|2025-10-25|100808028|qsc1
+insert Sum data|a|101|2025-10-25|sum 42|total 44|95.45 %|qsc1
+insert checklist data|123|2025-10-25|100806024|dca1
+insert image data|123|2025-10-25|100806024|dca1
+insert Sum data|a|123|2025-10-25|sum 53|total 58|91.38 %|dca1
+insert checklist data|111|2025-10-25|100208002|qsc1
+insert image data|111|2025-10-25|100208002|qsc1
+insert Sum data|a|111|2025-10-25|sum 40|total 45|88.89 %|qsc1
+insert checklist data|116|2025-10-26|101807511|dca1
+insert image data|116|2025-10-26|101807511|dca1
+insert Sum data|a|116|2025-10-26|sum 65|total 66|98.48 %|dca1
+insert checklist data|116|2025-10-26|111910006|qsc1
+insert image data|116|2025-10-26|111910006|qsc1
+insert Sum data|a|116|2025-10-26|sum 43|total 46|93.48 %|qsc1
+insert checklist data|111|2025-10-26|100208002|qsc1
+insert image data|111|2025-10-26|100208002|qsc1
+insert Sum data|a|111|2025-10-26|sum 39|total 45|86.67 %|qsc1
+insert checklist data|255|2025-10-26|202101002|qscakg1
+insert image data|255|2025-10-26|202101002|qscakg1
+insert Sum data|a|255|2025-10-26|sum 32|total 34|94.12 %|qscakg1
+insert checklist data|201|2025-10-26|202501013|dca1
+insert image data|201|2025-10-26|202501013|dca1
+insert Sum data|a|201|2025-10-26|sum 53|total 61|86.89 %|dca1
+insert checklist data|203|2025-10-26|202501013|dca1
+insert image data|203|2025-10-26|202501013|dca1
+insert Sum data|a|203|2025-10-26|sum 57|total 61|93.44 %|dca1
+insert checklist data|256|2025-10-27|202101002|qscakg1
+insert image data|256|2025-10-27|202101002|qscakg1
+insert Sum data|a|256|2025-10-27|sum 31|total 34|91.18 %|qscakg1
+insert checklist data|126|2025-10-27|100208002|qsc1
+insert image data|126|2025-10-27|100208002|qsc1
+insert Sum data|a|126|2025-10-27|sum 40|total 45|88.89 %|qsc1
+insert checklist data|125|2025-10-27|100808028|qsc1
+insert image data|125|2025-10-27|100808028|qsc1
+insert Sum data|a|125|2025-10-27|sum 27|total 28|96.43 %|qsc1
+insert checklist data|106|2025-10-27|100808028|qsc1
+insert image data|106|2025-10-27|100808028|qsc1
+insert Sum data|a|106|2025-10-27|sum 42|total 44|95.45 %|qsc1
+insert checklist data|107|2025-10-27|101405020|dca1
+insert image data|107|2025-10-27|101405020|dca1
+insert Sum data|a|107|2025-10-27|sum 61|total 66|92.42 %|dca1
+insert checklist data|101|2025-10-27|100806024|dca1
+insert image data|101|2025-10-27|100806024|dca1
+insert Sum data|a|101|2025-10-27|sum 61|total 66|92.42 %|dca1
+insert checklist data|203|2025-10-27|202501013|dca1
+insert image data|203|2025-10-27|202501013|dca1
+insert Sum data|a|203|2025-10-27|sum 51|total 61|83.61 %|dca1
+insert checklist data|204|2025-10-28|202501013|dca1
+insert image data|204|2025-10-28|202501013|dca1
+insert Sum data|a|204|2025-10-28|sum 46|total 61|75.41 %|dca1
+insert checklist data|204|2025-10-28|202501013|dca1
+insert image data|204|2025-10-28|202501013|dca1
+insert Sum data|a|204|2025-10-28|sum 46|total 61|75.41 %|dca1
+insert checklist data|125|2025-10-28|101405020|dca1
+insert image data|125|2025-10-28|101405020|dca1
+insert Sum data|a|125|2025-10-28|sum 53|total 56|94.64 %|dca1
+insert checklist data|123|2025-10-28|101808522|qsc1
+insert image data|123|2025-10-28|101808522|qsc1
+insert Sum data|a|123|2025-10-28|sum 39|total 41|95.12 %|qsc1
+insert checklist data|101|2025-10-29|100806024|dca1
+insert image data|101|2025-10-29|100806024|dca1
+insert Sum data|a|101|2025-10-29|sum 62|total 66|93.94 %|dca1
+insert checklist data|103|2025-10-29|100808028|qsc1
+insert image data|103|2025-10-29|100808028|qsc1
+insert Sum data|a|103|2025-10-29|sum 43|total 44|97.73 %|qsc1
+insert checklist data|111|2025-10-30|101505062|bcl1
+insert image data|111|2025-10-30|101505062|bcl1
+insert Sum data|a|111|2025-10-30|sum 45|total 45|100.00 %|bcl1
+insert checklist data|101|2025-10-30|100808028|qsc1
+insert image data|101|2025-10-30|100808028|qsc1
+insert Sum data|a|101|2025-10-30|sum 40|total 44|90.91 %|qsc1
+insert checklist data|123|2025-10-30|101808522|qsc1
+insert image data|123|2025-10-30|101808522|qsc1
+insert Sum data|a|123|2025-10-30|sum 39|total 41|95.12 %|qsc1
+insert checklist data|401|2025-10-31|101808522|qscmbe1
+insert image data|401|2025-10-31|101808522|qscmbe1
+insert Sum data|a|401|2025-10-31|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|112|2025-10-31|100208002|qsc1
+insert image data|112|2025-10-31|100208002|qsc1
+insert Sum data|a|112|2025-10-31|sum 43|total 46|93.48 %|qsc1
+insert checklist data|103|2025-11-01|100808028|qsc1
+insert image data|103|2025-11-01|100808028|qsc1
+insert Sum data|a|103|2025-11-01|sum 43|total 44|97.73 %|qsc1
+insert checklist data|116|2025-11-02|101807511|dca1
+insert image data|116|2025-11-02|101807511|dca1
+insert Sum data|a|116|2025-11-02|sum 62|total 66|93.94 %|dca1
+insert checklist data|111|2025-11-02|100208002|qsc1
+insert image data|111|2025-11-02|100208002|qsc1
+insert Sum data|a|111|2025-11-02|sum 39|total 45|86.67 %|qsc1
+insert checklist data|103|2025-11-03|101405020|dca1
+insert image data|103|2025-11-03|101405020|dca1
+insert Sum data|a|103|2025-11-03|sum 61|total 66|92.42 %|dca1
+insert checklist data|126|2025-11-03|100208002|qsc1
+insert image data|126|2025-11-03|100208002|qsc1
+insert Sum data|a|126|2025-11-03|sum 40|total 45|88.89 %|qsc1
+insert checklist data|258|2025-11-04|202101002|qscakg1
+insert image data|258|2025-11-04|202101002|qscakg1
+insert Sum data|a|258|2025-11-04|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|256|2025-11-05|202101002|qscakg1
+insert image data|256|2025-11-05|202101002|qscakg1
+insert Sum data|a|256|2025-11-05|sum 30|total 34|88.24 %|qscakg1
+insert checklist data|126|2025-11-05|102301138|dca1
+insert image data|126|2025-11-05|102301138|dca1
+insert Sum data|a|126|2025-11-05|sum 62|total 66|93.94 %|dca1
+insert checklist data|105|2025-11-06|100208002|qsc1
+insert image data|105|2025-11-06|100208002|qsc1
+insert Sum data|a|105|2025-11-06|sum 41|total 45|91.11 %|qsc1
+insert checklist data|112|2025-11-06|102301138|dca1
+insert image data|112|2025-11-06|102301138|dca1
+insert Sum data|a|112|2025-11-06|sum 63|total 66|95.45 %|dca1
+insert checklist data|401|2025-11-06|101808522|qscmbe1
+insert image data|401|2025-11-06|101808522|qscmbe1
+insert Sum data|a|401|2025-11-06|sum 32|total 34|94.12 %|qscmbe1
+insert checklist data|126|2025-11-07|100208002|qsc1
+insert image data|126|2025-11-07|100208002|qsc1
+insert Sum data|a|126|2025-11-07|sum 38|total 45|84.44 %|qsc1
+insert checklist data|203|2025-11-07|202501016|qsc1
+insert image data|203|2025-11-07|202501016|qsc1
+insert Sum data|a|203|2025-11-07|sum 40|total 44|90.91 %|qsc1
+insert checklist data|111|2025-11-07|101505062|bcl1
+insert image data|111|2025-11-07|101505062|bcl1
+insert Sum data|a|111|2025-11-07|sum 45|total 45|100.00 %|bcl1
+insert checklist data|101|2025-11-08|100806024|dca1
+insert image data|101|2025-11-08|100806024|dca1
+insert Sum data|a|101|2025-11-08|sum 59|total 66|89.39 %|dca1
+insert checklist data|105|2025-11-08|100208002|qsc1
+insert image data|105|2025-11-08|100208002|qsc1
+insert Sum data|a|105|2025-11-08|sum 41|total 45|91.11 %|qsc1
+insert checklist data|204|2025-11-08|202501016|qsc1
+insert image data|204|2025-11-08|202501016|qsc1
+insert Sum data|a|204|2025-11-08|sum 42|total 45|93.33 %|qsc1
+insert checklist data|254|2025-11-08|202101002|qscakg1
+insert image data|254|2025-11-08|202101002|qscakg1
+insert Sum data|a|254|2025-11-08|sum 34|total 35|97.14 %|qscakg1
+insert checklist data|401|2025-11-09|101808522|qscmbe1
+insert image data|401|2025-11-09|101808522|qscmbe1
+insert Sum data|a|401|2025-11-09|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|203|2025-11-09|202501013|dca1
+insert image data|203|2025-11-09|202501013|dca1
+insert Sum data|a|203|2025-11-09|sum 51|total 61|83.61 %|dca1
+insert checklist data|103|2025-11-09|100808028|qsc1
+insert image data|103|2025-11-09|100808028|qsc1
+insert Sum data|a|103|2025-11-09|sum 43|total 44|97.73 %|qsc1
+insert checklist data|126|2025-11-09|100208002|qsc1
+insert image data|126|2025-11-09|100208002|qsc1
+insert Sum data|a|126|2025-11-09|sum 40|total 45|88.89 %|qsc1
+insert checklist data|116|2025-11-09|111910006|bcl1
+insert image data|116|2025-11-09|111910006|bcl1
+insert Sum data|a|116|2025-11-09|sum 43|total 45|95.56 %|bcl1
+insert checklist data|258|2025-11-09|202101002|qscakg1
+insert image data|258|2025-11-09|202101002|qscakg1
+insert Sum data|a|258|2025-11-09|sum 34|total 35|97.14 %|qscakg1
+insert checklist data|116|2025-11-09|111910006|qsc1
+insert image data|116|2025-11-09|111910006|qsc1
+insert Sum data|a|116|2025-11-09|sum 41|total 46|89.13 %|qsc1
+insert checklist data|125|2025-11-10|100808028|qsc1
+insert image data|125|2025-11-10|100808028|qsc1
+insert Sum data|a|125|2025-11-10|sum 26|total 27|96.30 %|qsc1
+insert checklist data|106|2025-11-10|100808028|qsc1
+insert image data|106|2025-11-10|100808028|qsc1
+insert Sum data|a|106|2025-11-10|sum 41|total 44|93.18 %|qsc1
+insert checklist data|251|2025-11-11|202101002|qscakg1
+insert image data|251|2025-11-11|202101002|qscakg1
+insert Sum data|a|251|2025-11-11|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|107|2025-11-11|100808028|qsc1
+insert image data|107|2025-11-11|100808028|qsc1
+insert Sum data|a|107|2025-11-11|sum 40|total 44|90.91 %|qsc1
+insert checklist data|112|2025-11-11|102301138|dca1
+insert image data|112|2025-11-11|102301138|dca1
+insert Sum data|a|112|2025-11-11|sum 63|total 66|95.45 %|dca1
+insert checklist data|124|2025-11-11|102301138|dca1
+insert image data|124|2025-11-11|102301138|dca1
+insert Sum data|a|124|2025-11-11|sum 59|total 59|100.00 %|dca1
+insert checklist data|101|2025-11-13|101412039|bcl1
+insert image data|101|2025-11-13|101412039|bcl1
+insert Sum data|a|101|2025-11-13|sum 36|total 40|90.00 %|bcl1
+insert checklist data|101|2025-11-13|101412039|bcl1
+insert image data|101|2025-11-13|101412039|bcl1
+insert Sum data|a|101|2025-11-13|sum 36|total 40|90.00 %|bcl1
+insert checklist data|101|2025-11-13|101412039|bcl1
+insert image data|101|2025-11-13|101412039|bcl1
+insert Sum data|a|101|2025-11-13|sum 36|total 38|94.74 %|bcl1
+insert checklist data|256|2025-11-13|202101002|qscakg1
+insert image data|256|2025-11-13|202101002|qscakg1
+insert Sum data|a|256|2025-11-13|sum 32|total 34|94.12 %|qscakg1
+insert checklist data|103|2025-11-13|101412039|bcl1
+insert image data|103|2025-11-13|101412039|bcl1
+insert Sum data|a|103|2025-11-13|sum 34|total 39|87.18 %|bcl1
+insert checklist data|112|2025-11-13|100208002|qsc1
+insert image data|112|2025-11-13|100208002|qsc1
+insert Sum data|a|112|2025-11-13|sum 42|total 45|93.33 %|qsc1
+insert checklist data|101|2025-11-13|100808028|qsc1
+insert image data|101|2025-11-13|100808028|qsc1
+insert Sum data|a|101|2025-11-13|sum 41|total 44|93.18 %|qsc1
+insert checklist data|116|2025-11-13|101807511|dca1
+insert image data|116|2025-11-13|101807511|dca1
+insert Sum data|a|116|2025-11-13|sum 64|total 66|96.97 %|dca1
+insert checklist data|107|2025-11-13|101412039|bcl1
+insert image data|107|2025-11-13|101412039|bcl1
+insert Sum data|a|107|2025-11-13|sum 37|total 39|94.87 %|bcl1
+insert checklist data|126|2025-11-13|101412039|bcl1
+insert image data|126|2025-11-13|101412039|bcl1
+insert Sum data|a|126|2025-11-13|sum 38|total 39|97.44 %|bcl1
+insert checklist data|106|2025-11-13|101412039|bcl1
+insert image data|106|2025-11-13|101412039|bcl1
+insert Sum data|a|106|2025-11-13|sum 38|total 39|97.44 %|bcl1
+insert checklist data|125|2025-11-13|101412039|bcl1
+insert image data|125|2025-11-13|101412039|bcl1
+insert Sum data|a|125|2025-11-13|sum 34|total 38|89.47 %|bcl1
+insert checklist data|105|2025-11-13|101412039|bcl1
+insert image data|105|2025-11-13|101412039|bcl1
+insert Sum data|a|105|2025-11-13|sum 36|total 38|94.74 %|bcl1
+insert checklist data|251|2025-11-14|202101002|qscakg1
+insert image data|251|2025-11-14|202101002|qscakg1
+insert Sum data|a|251|2025-11-14|sum 32|total 34|94.12 %|qscakg1
+insert checklist data|252|2025-11-14|202101002|qscakg1
+insert image data|252|2025-11-14|202101002|qscakg1
+insert Sum data|a|252|2025-11-14|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|111|2025-11-14|101505062|qsc1
+insert image data|111|2025-11-14|101505062|qsc1
+insert Sum data|a|111|2025-11-14|sum 46|total 46|100.00 %|qsc1
+insert checklist data|111|2025-11-14|101505062|bcl1
+insert image data|111|2025-11-14|101505062|bcl1
+insert Sum data|a|111|2025-11-14|sum 45|total 45|100.00 %|bcl1
+insert checklist data|112|2025-11-15|100208002|qsc1
+insert image data|112|2025-11-15|100208002|qsc1
+insert Sum data|a|112|2025-11-15|sum 40|total 45|88.89 %|qsc1
+insert checklist data|125|2025-11-16|100808028|qsc1
+insert image data|125|2025-11-16|100808028|qsc1
+insert Sum data|a|125|2025-11-16|sum 25|total 27|92.59 %|qsc1
+insert checklist data|116|2025-11-16|111910006|bcl1
+insert image data|116|2025-11-16|111910006|bcl1
+insert Sum data|a|116|2025-11-16|sum 43|total 45|95.56 %|bcl1
+insert checklist data|116|2025-11-16|111910006|qsc1
+insert image data|116|2025-11-16|111910006|qsc1
+insert Sum data|a|116|2025-11-16|sum 39|total 46|84.78 %|qsc1
+insert checklist data|106|2025-11-16|100808028|qsc1
+insert image data|106|2025-11-16|100808028|qsc1
+insert Sum data|a|106|2025-11-16|sum 43|total 44|97.73 %|qsc1
+insert checklist data|101|2025-11-16|100806024|dca1
+insert image data|101|2025-11-16|100806024|dca1
+insert Sum data|a|101|2025-11-16|sum 60|total 66|90.91 %|dca1
+insert checklist data|101|2025-11-17|100808028|qsc1
+insert image data|101|2025-11-17|100808028|qsc1
+insert Sum data|a|101|2025-11-17|sum 43|total 44|97.73 %|qsc1
+insert checklist data|201|2025-11-18|202501013|dca1
+insert image data|201|2025-11-18|202501013|dca1
+insert Sum data|a|201|2025-11-18|sum 55|total 63|87.30 %|dca1
+insert checklist data|123|2025-11-18|202501016|qsc1
+insert image data|123|2025-11-18|202501016|qsc1
+insert Sum data|a|123|2025-11-18|sum 41|total 42|97.62 %|qsc1
+insert checklist data|201|2025-11-18|202501016|qsc1
+insert image data|201|2025-11-18|202501016|qsc1
+insert Sum data|a|201|2025-11-18|sum 45|total 45|100.00 %|qsc1
+insert checklist data|204|2025-11-19|202501016|qsc1
+insert image data|204|2025-11-19|202501016|qsc1
+insert Sum data|a|204|2025-11-19|sum 43|total 45|95.56 %|qsc1
+insert checklist data|103|2025-11-19|100808028|qsc1
+insert image data|103|2025-11-19|100808028|qsc1
+insert Sum data|a|103|2025-11-19|sum 42|total 44|95.45 %|qsc1
+insert checklist data|255|2025-11-19|202101002|qscakg1
+insert image data|255|2025-11-19|202101002|qscakg1
+insert Sum data|a|255|2025-11-19|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|251|2025-11-19|202101002|qscakg1
+insert image data|251|2025-11-19|202101002|qscakg1
+insert Sum data|a|251|2025-11-19|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|201|2025-11-20|202501016|qsc1
+insert image data|201|2025-11-20|202501016|qsc1
+insert Sum data|a|201|2025-11-20|sum 42|total 44|95.45 %|qsc1
+insert checklist data|111|2025-11-21|101505062|qsc1
+insert image data|111|2025-11-21|101505062|qsc1
+insert Sum data|a|111|2025-11-21|sum 46|total 46|100.00 %|qsc1
+insert checklist data|111|2025-11-21|101505062|bcl1
+insert image data|111|2025-11-21|101505062|bcl1
+insert Sum data|a|111|2025-11-21|sum 45|total 45|100.00 %|bcl1
+insert checklist data|126|2025-11-21|100208002|qsc1
+insert image data|126|2025-11-21|100208002|qsc1
+insert Sum data|a|126|2025-11-21|sum 39|total 45|86.67 %|qsc1
+insert checklist data|103|2025-11-21|100808028|qsc1
+insert image data|103|2025-11-21|100808028|qsc1
+insert Sum data|a|103|2025-11-21|sum 42|total 44|95.45 %|qsc1
+insert checklist data|204|2025-11-21|202501016|qsc1
+insert image data|204|2025-11-21|202501016|qsc1
+insert Sum data|a|204|2025-11-21|sum 42|total 43|97.67 %|qsc1
+insert checklist data|123|2025-11-21|100806024|dca1
+insert image data|123|2025-11-21|100806024|dca1
+insert Sum data|a|123|2025-11-21|sum 56|total 60|93.33 %|dca1
+insert checklist data|254|2025-11-21|202101002|qscakg1
+insert image data|254|2025-11-21|202101002|qscakg1
+insert Sum data|a|254|2025-11-21|sum 32|total 34|94.12 %|qscakg1
+insert checklist data|401|2025-11-21|202101002|qscmbe1
+insert image data|401|2025-11-21|202101002|qscmbe1
+insert Sum data|a|401|2025-11-21|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|255|2025-11-21|202101002|qscakg1
+insert image data|255|2025-11-21|202101002|qscakg1
+insert Sum data|a|255|2025-11-21|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|125|2025-11-22|100808028|qsc1
+insert image data|125|2025-11-22|100808028|qsc1
+insert Sum data|a|125|2025-11-22|sum 26|total 27|96.30 %|qsc1
+insert checklist data|111|2025-11-22|100208002|qsc1
+insert image data|111|2025-11-22|100208002|qsc1
+insert Sum data|a|111|2025-11-22|sum 38|total 45|84.44 %|qsc1
+insert checklist data|116|2025-11-23|111910006|bcl1
+insert image data|116|2025-11-23|111910006|bcl1
+insert Sum data|a|116|2025-11-23|sum 43|total 45|95.56 %|bcl1
+insert checklist data|111|2025-11-23|100208002|qsc1
+insert image data|111|2025-11-23|100208002|qsc1
+insert Sum data|a|111|2025-11-23|sum 38|total 45|84.44 %|qsc1
+insert checklist data|103|2025-11-23|100808028|qsc1
+insert image data|103|2025-11-23|100808028|qsc1
+insert Sum data|a|103|2025-11-23|sum 42|total 44|95.45 %|qsc1
+insert checklist data|201|2025-11-18|202501013|dca1
+insert image data|201|2025-11-18|202501013|dca1
+insert Sum data|a|201|2025-11-18|sum 55|total 63|87.30 %|dca1
+insert checklist data|201|2025-11-24|202501013|dca1
+insert image data|201|2025-11-24|202501013|dca1
+insert Sum data|a|201|2025-11-24|sum 51|total 61|83.61 %|dca1
+insert checklist data|203|2025-11-24|202501013|dca1
+insert image data|203|2025-11-24|202501013|dca1
+insert Sum data|a|203|2025-11-24|sum 57|total 62|91.94 %|dca1
+insert checklist data|126|2025-11-24|100208002|qsc1
+insert image data|126|2025-11-24|100208002|qsc1
+insert Sum data|a|126|2025-11-24|sum 40|total 45|88.89 %|qsc1
+insert checklist data|204|2025-11-24|202501016|qsc1
+insert image data|204|2025-11-24|202501016|qsc1
+insert Sum data|a|204|2025-11-24|sum 44|total 45|97.78 %|qsc1
+insert checklist data|116|2025-11-24|111910006|qsc1
+insert image data|116|2025-11-24|111910006|qsc1
+insert Sum data|a|116|2025-11-24|sum 43|total 46|93.48 %|qsc1
+insert checklist data|201|2025-11-24|202501016|qsc1
+insert image data|201|2025-11-24|202501016|qsc1
+insert Sum data|a|201|2025-11-24|sum 44|total 45|97.78 %|qsc1
+insert checklist data|103|2025-11-25|101405020|dca1
+insert image data|103|2025-11-25|101405020|dca1
+insert Sum data|a|103|2025-11-25|sum 63|total 66|95.45 %|dca1
+insert checklist data|124|2025-11-25|102301138|dca1
+insert image data|124|2025-11-25|102301138|dca1
+insert Sum data|a|124|2025-11-25|sum 56|total 58|96.55 %|dca1
+insert checklist data|256|2025-11-25|202101002|qscakg1
+insert image data|256|2025-11-25|202101002|qscakg1
+insert Sum data|a|256|2025-11-25|sum 31|total 34|91.18 %|qscakg1
+insert checklist data|112|2025-11-25|102301138|dca1
+insert image data|112|2025-11-25|102301138|dca1
+insert Sum data|a|112|2025-11-25|sum 63|total 66|95.45 %|dca1
+insert checklist data|126|2025-11-25|100208002|qsc1
+insert image data|126|2025-11-25|100208002|qsc1
+insert Sum data|a|126|2025-11-25|sum 39|total 45|86.67 %|qsc1
+insert checklist data|116|2025-11-26|101807511|dca1
+insert image data|116|2025-11-26|101807511|dca1
+insert Sum data|a|116|2025-11-26|sum 62|total 66|93.94 %|dca1
+insert checklist data|103|2025-11-26|101405020|dca1
+insert image data|103|2025-11-26|101405020|dca1
+insert Sum data|a|103|2025-11-26|sum 63|total 66|95.45 %|dca1
+insert checklist data|101|2025-11-26|100808028|qsc1
+insert image data|101|2025-11-26|100808028|qsc1
+insert Sum data|a|101|2025-11-26|sum 39|total 44|88.64 %|qsc1
+insert checklist data|103|2025-11-26|101405020|dca1
+insert image data|103|2025-11-26|101405020|dca1
+insert Sum data|a|103|2025-11-26|sum 63|total 66|95.45 %|dca1
+insert checklist data|106|2025-11-26|100808028|qsc1
+insert image data|106|2025-11-26|100808028|qsc1
+insert Sum data|a|106|2025-11-26|sum 43|total 44|97.73 %|qsc1
+insert checklist data|111|2025-11-27|101505062|qsc1
+insert image data|111|2025-11-27|101505062|qsc1
+insert Sum data|a|111|2025-11-27|sum 46|total 46|100.00 %|qsc1
+insert checklist data|111|2025-11-27|101505062|bcl1
+insert image data|111|2025-11-27|101505062|bcl1
+insert Sum data|a|111|2025-11-27|sum 45|total 45|100.00 %|bcl1
+insert checklist data|103|2025-11-26|101405020|dca1
+insert image data|103|2025-11-26|101405020|dca1
+insert Sum data|a|103|2025-11-26|sum 63|total 66|95.45 %|dca1
+insert checklist data|125|2025-11-27|101405020|dca1
+insert image data|125|2025-11-27|101405020|dca1
+insert Sum data|a|125|2025-11-27|sum 56|total 56|100.00 %|dca1
+insert checklist data|107|2025-11-27|100808028|qsc1
+insert image data|107|2025-11-27|100808028|qsc1
+insert Sum data|a|107|2025-11-27|sum 41|total 44|93.18 %|qsc1
+insert checklist data|126|2025-11-27|102301138|dca1
+insert image data|126|2025-11-27|102301138|dca1
+insert Sum data|a|126|2025-11-27|sum 63|total 66|95.45 %|dca1
+insert checklist data|112|2025-11-27|100208002|qsc1
+insert image data|112|2025-11-27|100208002|qsc1
+insert Sum data|a|112|2025-11-27|sum 39|total 45|86.67 %|qsc1
+insert checklist data|203|2025-11-27|202501013|dca1
+insert image data|203|2025-11-27|202501013|dca1
+insert Sum data|a|203|2025-11-27|sum 54|total 61|88.52 %|dca1
+insert checklist data|203|2025-11-27|202501013|dca1
+insert image data|203|2025-11-27|202501013|dca1
+insert Sum data|a|203|2025-11-27|sum 54|total 61|88.52 %|dca1
+insert checklist data|204|2025-11-28|202501013|dca1
+insert image data|204|2025-11-28|202501013|dca1
+insert Sum data|a|204|2025-11-28|sum 46|total 61|75.41 %|dca1
+insert checklist data|204|2025-11-28|202501016|qsc1
+insert image data|204|2025-11-28|202501016|qsc1
+insert Sum data|a|204|2025-11-28|sum 43|total 45|95.56 %|qsc1
+insert checklist data|401|2025-11-28|202101002|qscmbe1
+insert image data|401|2025-11-28|202101002|qscmbe1
+insert Sum data|a|401|2025-11-28|sum 31|total 34|91.18 %|qscmbe1
+insert checklist data|255|2025-11-28|202101002|qscakg1
+insert image data|255|2025-11-28|202101002|qscakg1
+insert Sum data|a|255|2025-11-28|sum 32|total 34|94.12 %|qscakg1
+insert checklist data|105|2025-11-29|100208002|qsc1
+insert image data|105|2025-11-29|100208002|qsc1
+insert Sum data|a|105|2025-11-29|sum 42|total 45|93.33 %|qsc1
+insert checklist data|256|2025-11-29|202101002|qscakg1
+insert image data|256|2025-11-29|202101002|qscakg1
+insert Sum data|a|256|2025-11-29|sum 32|total 34|94.12 %|qscakg1
+insert checklist data|203|2025-11-29|202501016|qsc1
+insert image data|203|2025-11-29|202501016|qsc1
+insert Sum data|a|203|2025-11-29|sum 42|total 45|93.33 %|qsc1
+insert checklist data|106|2025-11-29|100808028|qsc1
+insert image data|106|2025-11-29|100808028|qsc1
+insert Sum data|a|106|2025-11-29|sum 44|total 45|97.78 %|qsc1
+insert checklist data|106|2025-11-29|101405020|dca1
+insert image data|106|2025-11-29|101405020|dca1
+insert Sum data|a|106|2025-11-29|sum 62|total 66|93.94 %|dca1
+insert checklist data|123|2025-11-29|100806024|dca1
+insert image data|123|2025-11-29|100806024|dca1
+insert Sum data|a|123|2025-11-29|sum 60|total 61|98.36 %|dca1
+insert checklist data|116|2025-11-30|111910006|bcl1
+insert image data|116|2025-11-30|111910006|bcl1
+insert Sum data|a|116|2025-11-30|sum 42|total 45|93.33 %|bcl1
+insert checklist data|105|2025-11-30|100806024|dca1
+insert image data|105|2025-11-30|100806024|dca1
+insert Sum data|a|105|2025-11-30|sum 61|total 64|95.31 %|dca1
+insert checklist data|126|2025-11-30|100208002|qsc1
+insert image data|126|2025-11-30|100208002|qsc1
+insert Sum data|a|126|2025-11-30|sum 39|total 45|86.67 %|qsc1
+insert checklist data|107|2025-11-30|100808028|qsc1
+insert image data|107|2025-11-30|100808028|qsc1
+insert Sum data|a|107|2025-11-30|sum 41|total 44|93.18 %|qsc1
+insert checklist data|116|2025-11-30|101807511|dca1
+insert image data|116|2025-11-30|101807511|dca1
+insert Sum data|a|116|2025-11-30|sum 63|total 66|95.45 %|dca1
+insert checklist data|123|2025-12-01|100806024|dca1
+insert image data|123|2025-12-01|100806024|dca1
+insert Sum data|a|123|2025-12-01|sum 58|total 62|93.55 %|dca1
+insert checklist data|116|2025-12-01|111910006|qsc1
+insert image data|116|2025-12-01|111910006|qsc1
+insert Sum data|a|116|2025-12-01|sum 42|total 46|91.30 %|qsc1
+insert checklist data|101|2025-12-02|100806024|dca1
+insert image data|101|2025-12-02|100806024|dca1
+insert Sum data|a|101|2025-12-02|sum 61|total 64|95.31 %|dca1
+insert checklist data|123|2025-12-02|202501016|qsc1
+insert image data|123|2025-12-02|202501016|qsc1
+insert Sum data|a|123|2025-12-02|sum 43|total 44|97.73 %|qsc1
+insert checklist data|126|2025-12-02|102301138|dca1
+insert image data|126|2025-12-02|102301138|dca1
+insert Sum data|a|126|2025-12-02|sum 63|total 66|95.45 %|dca1
+insert checklist data|255|2025-12-02|202101002|qscakg1
+insert image data|255|2025-12-02|202101002|qscakg1
+insert Sum data|a|255|2025-12-02|sum 32|total 34|94.12 %|qscakg1
+insert checklist data|401|2025-12-02|202101002|qscmbe1
+insert image data|401|2025-12-02|202101002|qscmbe1
+insert Sum data|a|401|2025-12-02|sum 35|total 35|100.00 %|qscmbe1
+insert checklist data|124|2025-12-03|102301138|dca1
+insert image data|124|2025-12-03|102301138|dca1
+insert Sum data|a|124|2025-12-03|sum 58|total 59|98.31 %|dca1
+insert checklist data|112|2025-12-03|102301138|dca1
+insert image data|112|2025-12-03|102301138|dca1
+insert Sum data|a|112|2025-12-03|sum 64|total 66|96.97 %|dca1
+insert checklist data|123|2025-12-03|100806024|dca1
+insert image data|123|2025-12-03|100806024|dca1
+insert Sum data|a|123|2025-12-03|sum 54|total 59|91.53 %|dca1
+insert checklist data|204|2025-12-03|202501016|qsc1
+insert image data|204|2025-12-03|202501016|qsc1
+insert Sum data|a|204|2025-12-03|sum 45|total 45|100.00 %|qsc1
+insert checklist data|123|2025-12-03|202501016|qsc1
+insert image data|123|2025-12-03|202501016|qsc1
+insert Sum data|a|123|2025-12-03|sum 42|total 43|97.67 %|qsc1
+insert checklist data|106|2025-12-04|100808028|qsc1
+insert image data|106|2025-12-04|100808028|qsc1
+insert Sum data|a|106|2025-12-04|sum 44|total 44|100.00 %|qsc1
+insert checklist data|123|2025-12-04|202501016|qsc1
+insert image data|123|2025-12-04|202501016|qsc1
+insert Sum data|a|123|2025-12-04|sum 41|total 44|93.18 %|qsc1
+insert checklist data|123|2025-12-04|100806024|dca1
+insert image data|123|2025-12-04|100806024|dca1
+insert Sum data|a|123|2025-12-04|sum 53|total 58|91.38 %|dca1
+insert checklist data|125|2025-12-04|100808028|qsc1
+insert image data|125|2025-12-04|100808028|qsc1
+insert Sum data|a|125|2025-12-04|sum 26|total 27|96.30 %|qsc1
+insert checklist data|111|2025-12-04|100208002|qsc1
+insert image data|111|2025-12-04|100208002|qsc1
+insert Sum data|a|111|2025-12-04|sum 39|total 45|86.67 %|qsc1
+insert checklist data|119|2025-12-04|102301138|dca1
+insert image data|119|2025-12-04|102301138|dca1
+insert Sum data|a|119|2025-12-04|sum 49|total 51|96.08 %|dca1
+insert checklist data|203|2025-12-05|202501016|qsc1
+insert image data|203|2025-12-05|202501016|qsc1
+insert Sum data|a|203|2025-12-05|sum 44|total 45|97.78 %|qsc1
+insert checklist data|201|2025-12-05|202501016|qsc1
+insert image data|201|2025-12-05|202501016|qsc1
+insert Sum data|a|201|2025-12-05|sum 44|total 45|97.78 %|qsc1
+insert checklist data|111|2025-12-05|101505062|qsc1
+insert image data|111|2025-12-05|101505062|qsc1
+insert Sum data|a|111|2025-12-05|sum 46|total 46|100.00 %|qsc1
+insert checklist data|111|2025-12-05|101505062|bcl1
+insert image data|111|2025-12-05|101505062|bcl1
+insert Sum data|a|111|2025-12-05|sum 45|total 45|100.00 %|bcl1
+insert checklist data|123|2025-12-06|202501016|qsc1
+insert image data|123|2025-12-06|202501016|qsc1
+insert Sum data|a|123|2025-12-06|sum 42|total 45|93.33 %|qsc1
+insert checklist data|103|2025-12-06|100808028|qsc1
+insert image data|103|2025-12-06|100808028|qsc1
+insert Sum data|a|103|2025-12-06|sum 42|total 44|95.45 %|qsc1
+insert checklist data|111|2025-12-06|100208002|qsc1
+insert image data|111|2025-12-06|100208002|qsc1
+insert Sum data|a|111|2025-12-06|sum 39|total 45|86.67 %|qsc1
+insert checklist data|101|2025-12-06|100806024|dca1
+insert image data|101|2025-12-06|100806024|dca1
+insert Sum data|a|101|2025-12-06|sum 59|total 65|90.77 %|dca1
+insert checklist data|201|2025-12-06|202501016|qsc1
+insert image data|201|2025-12-06|202501016|qsc1
+insert Sum data|a|201|2025-12-06|sum 45|total 45|100.00 %|qsc1
+insert checklist data|103|2025-12-07|100808028|qsc1
+insert image data|103|2025-12-07|100808028|qsc1
+insert Sum data|a|103|2025-12-07|sum 42|total 44|95.45 %|qsc1
+insert checklist data|123|2025-12-07|100806024|dca1
+insert image data|123|2025-12-07|100806024|dca1
+insert Sum data|a|123|2025-12-07|sum 53|total 57|92.98 %|dca1
+insert checklist data|258|2025-12-07|202101002|qscakg1
+insert image data|258|2025-12-07|202101002|qscakg1
+insert Sum data|a|258|2025-12-07|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|106|2025-11-29|101405020|dca1
+insert image data|106|2025-11-29|101405020|dca1
+insert Sum data|a|106|2025-11-29|sum 62|total 66|93.94 %|dca1
+insert checklist data|106|2025-12-07|101405020|dca1
+insert image data|106|2025-12-07|101405020|dca1
+insert Sum data|a|106|2025-12-07|sum 61|total 66|92.42 %|dca1
+insert checklist data|203|2025-12-08|202501013|dca1
+insert image data|203|2025-12-08|202501013|dca1
+insert Sum data|a|203|2025-12-08|sum 49|total 61|80.33 %|dca1
+insert checklist data|105|2025-12-08|100208002|qsc1
+insert image data|105|2025-12-08|100208002|qsc1
+insert Sum data|a|105|2025-12-08|sum 41|total 45|91.11 %|qsc1
+insert checklist data|204|2025-12-08|202501016|qsc1
+insert image data|204|2025-12-08|202501016|qsc1
+insert Sum data|a|204|2025-12-08|sum 43|total 44|97.73 %|qsc1
+insert checklist data|101|2025-12-08|100806024|dca1
+insert image data|101|2025-12-08|100806024|dca1
+insert Sum data|a|101|2025-12-08|sum 61|total 66|92.42 %|dca1
+insert checklist data|126|2025-12-08|100208002|qsc1
+insert image data|126|2025-12-08|100208002|qsc1
+insert Sum data|a|126|2025-12-08|sum 39|total 45|86.67 %|qsc1
+insert checklist data|203|2025-12-08|202501013|dca1
+insert image data|203|2025-12-08|202501013|dca1
+insert Sum data|a|203|2025-12-08|sum 49|total 61|80.33 %|dca1
+insert checklist data|116|2025-12-08|111910006|bcl1
+insert image data|116|2025-12-08|111910006|bcl1
+insert Sum data|a|116|2025-12-08|sum 42|total 45|93.33 %|bcl1
+insert checklist data|124|2025-12-09|100208002|qsc1
+insert image data|124|2025-12-09|100208002|qsc1
+insert Sum data|a|124|2025-12-09|sum 35|total 42|83.33 %|qsc1
+insert checklist data|105|2025-12-09|100806024|dca1
+insert image data|105|2025-12-09|100806024|dca1
+insert Sum data|a|105|2025-12-09|sum 59|total 66|89.39 %|dca1
+insert checklist data|105|2025-12-09|100806024|dca1
+insert image data|105|2025-12-09|100806024|dca1
+insert Sum data|a|105|2025-12-09|sum 59|total 66|89.39 %|dca1
+insert checklist data|204|2025-12-09|202501016|qsc1
+insert image data|204|2025-12-09|202501016|qsc1
+insert Sum data|a|204|2025-12-09|sum 44|total 45|97.78 %|qsc1
+insert checklist data|125|2025-12-09|100808028|qsc1
+insert image data|125|2025-12-09|100808028|qsc1
+insert Sum data|a|125|2025-12-09|sum 26|total 27|96.30 %|qsc1
+insert checklist data|112|2025-12-09|100208002|qsc1
+insert image data|112|2025-12-09|100208002|qsc1
+insert Sum data|a|112|2025-12-09|sum 40|total 45|88.89 %|qsc1
+insert checklist data|124|2025-12-09|102301138|dca1
+insert image data|124|2025-12-09|102301138|dca1
+insert Sum data|a|124|2025-12-09|sum 60|total 61|98.36 %|dca1
+insert checklist data|201|2025-12-09|202501016|qsc1
+insert image data|201|2025-12-09|202501016|qsc1
+insert Sum data|a|201|2025-12-09|sum 44|total 45|97.78 %|qsc1
+insert checklist data|106|2025-12-09|100808028|qsc1
+insert image data|106|2025-12-09|100808028|qsc1
+insert Sum data|a|106|2025-12-09|sum 43|total 44|97.73 %|qsc1
+insert checklist data|112|2025-12-09|102301138|dca1
+insert image data|112|2025-12-09|102301138|dca1
+insert Sum data|a|112|2025-12-09|sum 63|total 66|95.45 %|dca1
+insert checklist data|116|2025-12-10|101807511|dca1
+insert image data|116|2025-12-10|101807511|dca1
+insert Sum data|a|116|2025-12-10|sum 59|total 66|89.39 %|dca1
+insert checklist data|203|2025-12-10|202501016|qsc1
+insert image data|203|2025-12-10|202501016|qsc1
+insert Sum data|a|203|2025-12-10|sum 45|total 45|100.00 %|qsc1
+insert checklist data|116|2025-12-10|111910006|qsc1
+insert image data|116|2025-12-10|111910006|qsc1
+insert Sum data|a|116|2025-12-10|sum 40|total 46|86.96 %|qsc1
+insert checklist data|101|2025-12-10|100806024|dca1
+insert image data|101|2025-12-10|100806024|dca1
+insert Sum data|a|101|2025-12-10|sum 62|total 66|93.94 %|dca1
+insert checklist data|126|2025-12-11|100208002|qsc1
+insert image data|126|2025-12-11|100208002|qsc1
+insert Sum data|a|126|2025-12-11|sum 39|total 44|88.64 %|qsc1
+insert checklist data|123|2025-12-11|202501016|qsc1
+insert image data|123|2025-12-11|202501016|qsc1
+insert Sum data|a|123|2025-12-11|sum 44|total 45|97.78 %|qsc1
+insert checklist data|111|2025-12-11|101505062|qsc1
+insert image data|111|2025-12-11|101505062|qsc1
+insert Sum data|a|111|2025-12-11|sum 46|total 46|100.00 %|qsc1
+insert checklist data|111|2025-12-11|101505062|bcl1
+insert image data|111|2025-12-11|101505062|bcl1
+insert Sum data|a|111|2025-12-11|sum 45|total 45|100.00 %|bcl1
+insert checklist data|107|2025-12-11|100808028|qsc1
+insert image data|107|2025-12-11|100808028|qsc1
+insert Sum data|a|107|2025-12-11|sum 42|total 44|95.45 %|qsc1
+insert checklist data|103|2025-12-11|100808028|qsc1
+insert image data|103|2025-12-11|100808028|qsc1
+insert Sum data|a|103|2025-12-11|sum 41|total 44|93.18 %|qsc1
+insert checklist data|103|2025-12-12|100808028|qsc1
+insert image data|103|2025-12-12|100808028|qsc1
+insert Sum data|a|103|2025-12-12|sum 42|total 44|95.45 %|qsc1
+insert checklist data|101|2025-12-12|100806024|dca1
+insert image data|101|2025-12-12|100806024|dca1
+insert Sum data|a|101|2025-12-12|sum 61|total 66|92.42 %|dca1
+insert checklist data|204|2025-12-12|202501016|qsc1
+insert image data|204|2025-12-12|202501016|qsc1
+insert Sum data|a|204|2025-12-12|sum 45|total 45|100.00 %|qsc1
+insert checklist data|201|2025-12-12|202501016|qsc1
+insert image data|201|2025-12-12|202501016|qsc1
+insert Sum data|a|201|2025-12-12|sum 45|total 45|100.00 %|qsc1
+insert checklist data|105|2025-12-13|100806024|dca1
+insert image data|105|2025-12-13|100806024|dca1
+insert Sum data|a|105|2025-12-13|sum 62|total 66|93.94 %|dca1
+insert checklist data|204|2025-12-13|202501013|dca1
+insert image data|204|2025-12-13|202501013|dca1
+insert Sum data|a|204|2025-12-13|sum 43|total 60|71.67 %|dca1
+insert checklist data|101|2025-12-13|100808028|qsc1
+insert image data|101|2025-12-13|100808028|qsc1
+insert Sum data|a|101|2025-12-13|sum 42|total 44|95.45 %|qsc1
+insert checklist data|203|2025-12-13|202501016|qsc1
+insert image data|203|2025-12-13|202501016|qsc1
+insert Sum data|a|203|2025-12-13|sum 42|total 42|100.00 %|qsc1
+insert checklist data|103|2025-12-13|100808028|qsc1
+insert image data|103|2025-12-13|100808028|qsc1
+insert Sum data|a|103|2025-12-13|sum 41|total 44|93.18 %|qsc1
+insert checklist data|123|2025-12-14|100806024|dca1
+insert image data|123|2025-12-14|100806024|dca1
+insert Sum data|a|123|2025-12-14|sum 55|total 58|94.83 %|dca1
+insert checklist data|251|2025-12-14|202101002|qscmbe1
+insert image data|251|2025-12-14|202101002|qscmbe1
+insert Sum data|a|251|2025-12-14|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|204|2025-12-15|202501016|qsc1
+insert image data|204|2025-12-15|202501016|qsc1
+insert Sum data|a|204|2025-12-15|sum 41|total 42|97.62 %|qsc1
+insert checklist data|126|2025-12-15|100208002|qsc1
+insert image data|126|2025-12-15|100208002|qsc1
+insert Sum data|a|126|2025-12-15|sum 39|total 45|86.67 %|qsc1
+insert checklist data|101|2025-12-15|100806024|dca1
+insert image data|101|2025-12-15|100806024|dca1
+insert Sum data|a|101|2025-12-15|sum 61|total 66|92.42 %|dca1
+insert checklist data|203|2025-12-15|202501013|dca1
+insert image data|203|2025-12-15|202501013|dca1
+insert Sum data|a|203|2025-12-15|sum 42|total 59|71.19 %|dca1
+insert checklist data|123|2025-12-15|202501016|qsc1
+insert image data|123|2025-12-15|202501016|qsc1
+insert Sum data|a|123|2025-12-15|sum 41|total 42|97.62 %|qsc1
+insert checklist data|125|2025-12-16|100808028|qsc1
+insert image data|125|2025-12-16|100808028|qsc1
+insert Sum data|a|125|2025-12-16|sum 27|total 28|96.43 %|qsc1
+insert checklist data|116|2025-12-16|111910006|qsc1
+insert image data|116|2025-12-16|111910006|qsc1
+insert Sum data|a|116|2025-12-16|sum 41|total 46|89.13 %|qsc1
+insert checklist data|116|2025-12-16|111910006|bcl1
+insert image data|116|2025-12-16|111910006|bcl1
+insert Sum data|a|116|2025-12-16|sum 42|total 45|93.33 %|bcl1
+insert checklist data|106|2025-12-16|100808028|qsc1
+insert image data|106|2025-12-16|100808028|qsc1
+insert Sum data|a|106|2025-12-16|sum 43|total 44|97.73 %|qsc1
+insert checklist data|125|2025-12-16|101405020|dca1
+insert image data|125|2025-12-16|101405020|dca1
+insert Sum data|a|125|2025-12-16|sum 50|total 55|90.91 %|dca1
+insert checklist data|126|2025-12-16|100208002|qsc1
+insert image data|126|2025-12-16|100208002|qsc1
+insert Sum data|a|126|2025-12-16|sum 40|total 45|88.89 %|qsc1
+insert checklist data|123|2025-12-16|202501016|qsc1
+insert image data|123|2025-12-16|202501016|qsc1
+insert Sum data|a|123|2025-12-16|sum 42|total 42|100.00 %|qsc1
+insert checklist data|112|2025-12-16|102301138|dca1
+insert image data|112|2025-12-16|102301138|dca1
+insert Sum data|a|112|2025-12-16|sum 64|total 66|96.97 %|dca1
+insert checklist data|126|2025-12-17|100208002|qsc1
+insert image data|126|2025-12-17|100208002|qsc1
+insert Sum data|a|126|2025-12-17|sum 41|total 45|91.11 %|qsc1
+insert checklist data|123|2025-12-17|100806024|dca1
+insert image data|123|2025-12-17|100806024|dca1
+insert Sum data|a|123|2025-12-17|sum 59|total 63|93.65 %|dca1
+insert checklist data|111|2025-12-17|102301227|dca1
+insert image data|111|2025-12-17|102301227|dca1
+insert Sum data|a|111|2025-12-17|sum 64|total 66|96.97 %|dca1
+insert checklist data|111|2025-12-17|101505062|qsc1
+insert image data|111|2025-12-17|101505062|qsc1
+insert Sum data|a|111|2025-12-17|sum 44|total 45|97.78 %|qsc1
+insert checklist data|256|2025-12-17|202101002|qscakg1
+insert image data|256|2025-12-17|202101002|qscakg1
+insert Sum data|a|256|2025-12-17|sum 31|total 34|91.18 %|qscakg1
+insert checklist data|103|2025-12-17|101405020|dca1
+insert image data|103|2025-12-17|101405020|dca1
+insert Sum data|a|103|2025-12-17|sum 59|total 65|90.77 %|dca1
+insert checklist data|123|2025-12-17|202501016|qsc1
+insert image data|123|2025-12-17|202501016|qsc1
+insert Sum data|a|123|2025-12-17|sum 42|total 42|100.00 %|qsc1
+insert checklist data|107|2025-12-17|100808028|qsc1
+insert image data|107|2025-12-17|100808028|qsc1
+insert Sum data|a|107|2025-12-17|sum 41|total 44|93.18 %|qsc1
+insert checklist data|123|2025-12-18|202501016|qsc1
+insert image data|123|2025-12-18|202501016|qsc1
+insert Sum data|a|123|2025-12-18|sum 42|total 42|100.00 %|qsc1
+insert checklist data|251|2025-12-18|202101002|qscakg1
+insert image data|251|2025-12-18|202101002|qscakg1
+insert Sum data|a|251|2025-12-18|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|111|2025-12-18|101505062|qsc1
+insert image data|111|2025-12-18|101505062|qsc1
+insert Sum data|a|111|2025-12-18|sum 46|total 46|100.00 %|qsc1
+insert checklist data|111|2025-12-18|101505062|bcl1
+insert image data|111|2025-12-18|101505062|bcl1
+insert Sum data|a|111|2025-12-18|sum 45|total 45|100.00 %|bcl1
+insert checklist data|203|2025-12-19|202501016|qsc1
+insert image data|203|2025-12-19|202501016|qsc1
+insert Sum data|a|203|2025-12-19|sum 43|total 43|100.00 %|qsc1
+insert checklist data|105|2025-12-19|100806024|dca1
+insert image data|105|2025-12-19|100806024|dca1
+insert Sum data|a|105|2025-12-19|sum 61|total 66|92.42 %|dca1
+insert checklist data|126|2025-12-19|102301138|dca1
+insert image data|126|2025-12-19|102301138|dca1
+insert Sum data|a|126|2025-12-19|sum 64|total 66|96.97 %|dca1
+insert checklist data|103|2025-12-19|100808028|qsc1
+insert image data|103|2025-12-19|100808028|qsc1
+insert Sum data|a|103|2025-12-19|sum 42|total 44|95.45 %|qsc1
+insert checklist data|256|2025-12-19|202101002|qscakg1
+insert image data|256|2025-12-19|202101002|qscakg1
+insert Sum data|a|256|2025-12-19|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|106|2025-12-20|101405020|dca1
+insert image data|106|2025-12-20|101405020|dca1
+insert Sum data|a|106|2025-12-20|sum 60|total 65|92.31 %|dca1
+insert checklist data|125|2025-12-20|100808028|qsc1
+insert image data|125|2025-12-20|100808028|qsc1
+insert Sum data|a|125|2025-12-20|sum 27|total 28|96.43 %|qsc1
+insert checklist data|101|2025-12-20|100806024|dca1
+insert image data|101|2025-12-20|100806024|dca1
+insert Sum data|a|101|2025-12-20|sum 60|total 66|90.91 %|dca1
+insert checklist data|253|2025-12-20|202101002|qscakg1
+insert image data|253|2025-12-20|202101002|qscakg1
+insert Sum data|a|253|2025-12-20|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|106|2025-12-20|101405020|dca1
+insert image data|106|2025-12-20|101405020|dca1
+insert Sum data|a|106|2025-12-20|sum 60|total 65|92.31 %|dca1
+insert checklist data|106|2025-12-20|100808028|qsc1
+insert image data|106|2025-12-20|100808028|qsc1
+insert Sum data|a|106|2025-12-20|sum 44|total 44|100.00 %|qsc1
+insert checklist data|106|2025-12-20|101405020|dca1
+insert image data|106|2025-12-20|101405020|dca1
+insert Sum data|a|106|2025-12-20|sum 60|total 65|92.31 %|dca1
+insert checklist data|111|2025-12-20|100208002|qsc1
+insert image data|111|2025-12-20|100208002|qsc1
+insert Sum data|a|111|2025-12-20|sum 39|total 45|86.67 %|qsc1
+insert checklist data|123|2025-12-21|100806024|dca1
+insert image data|123|2025-12-21|100806024|dca1
+insert Sum data|a|123|2025-12-21|sum 53|total 56|94.64 %|dca1
+insert checklist data|116|2025-12-21|111910006|bcl1
+insert image data|116|2025-12-21|111910006|bcl1
+insert Sum data|a|116|2025-12-21|sum 43|total 45|95.56 %|bcl1
+insert checklist data|201|2025-12-21|202501016|qsc1
+insert image data|201|2025-12-21|202501016|qsc1
+insert Sum data|a|201|2025-12-21|sum 45|total 45|100.00 %|qsc1
+insert checklist data|201|2025-12-21|202501013|dca1
+insert image data|201|2025-12-21|202501013|dca1
+insert Sum data|a|201|2025-12-21|sum 53|total 61|86.89 %|dca1
+insert checklist data|203|2025-12-21|202501013|dca1
+insert image data|203|2025-12-21|202501013|dca1
+insert Sum data|a|203|2025-12-21|sum 47|total 60|78.33 %|dca1
+insert checklist data|106|2025-12-20|101405020|dca1
+insert image data|106|2025-12-20|101405020|dca1
+insert Sum data|a|106|2025-12-20|sum 60|total 65|92.31 %|dca1
+insert checklist data|201|2025-12-22|202501013|dca1
+insert image data|201|2025-12-22|202501013|dca1
+insert Sum data|a|201|2025-12-22|sum 47|total 61|77.05 %|dca1
+insert checklist data|107|2025-12-22|101405020|dca1
+insert image data|107|2025-12-22|101405020|dca1
+insert Sum data|a|107|2025-12-22|sum 62|total 66|93.94 %|dca1
+insert checklist data|123|2025-12-22|100806024|dca1
+insert image data|123|2025-12-22|100806024|dca1
+insert Sum data|a|123|2025-12-22|sum 53|total 55|96.36 %|dca1
+insert checklist data|105|2025-12-23|100806024|dca1
+insert image data|105|2025-12-23|100806024|dca1
+insert Sum data|a|105|2025-12-23|sum 63|total 66|95.45 %|dca1
+insert checklist data|126|2025-12-23|100208002|qsc1
+insert image data|126|2025-12-23|100208002|qsc1
+insert Sum data|a|126|2025-12-23|sum 40|total 45|88.89 %|qsc1
+insert checklist data|101|2025-12-23|100808028|qsc1
+insert image data|101|2025-12-23|100808028|qsc1
+insert Sum data|a|101|2025-12-23|sum 41|total 44|93.18 %|qsc1
+insert checklist data|204|2025-12-24|202501013|dca1
+insert image data|204|2025-12-24|202501013|dca1
+insert Sum data|a|204|2025-12-24|sum 39|total 60|65.00 %|dca1
+insert checklist data|203|2025-12-24|202501013|dca1
+insert image data|203|2025-12-24|202501013|dca1
+insert Sum data|a|203|2025-12-24|sum 52|total 60|86.67 %|dca1
+insert checklist data|123|2025-12-24|100806024|dca1
+insert image data|123|2025-12-24|100806024|dca1
+insert Sum data|a|123|2025-12-24|sum 52|total 57|91.23 %|dca1
+insert checklist data|204|2025-12-24|202501016|qsc1
+insert image data|204|2025-12-24|202501016|qsc1
+insert Sum data|a|204|2025-12-24|sum 44|total 45|97.78 %|qsc1
+insert checklist data|112|2025-12-24|100208002|qsc1
+insert image data|112|2025-12-24|100208002|qsc1
+insert Sum data|a|112|2025-12-24|sum 39|total 45|86.67 %|qsc1
+insert checklist data|256|2025-12-24|202101002|qscakg1
+insert image data|256|2025-12-24|202101002|qscakg1
+insert Sum data|a|256|2025-12-24|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|251|2025-12-24|202101002|qscakg1
+insert image data|251|2025-12-24|202101002|qscakg1
+insert Sum data|a|251|2025-12-24|sum 32|total 34|94.12 %|qscakg1
+insert checklist data|105|2025-12-25|100208002|qsc1
+insert image data|105|2025-12-25|100208002|qsc1
+insert Sum data|a|105|2025-12-25|sum 41|total 45|91.11 %|qsc1
+insert checklist data|111|2025-12-25|101505062|qsc1
+insert image data|111|2025-12-25|101505062|qsc1
+insert Sum data|a|111|2025-12-25|sum 46|total 46|100.00 %|qsc1
+insert checklist data|111|2025-12-25|101505062|bcl1
+insert image data|111|2025-12-25|101505062|bcl1
+insert Sum data|a|111|2025-12-25|sum 45|total 45|100.00 %|bcl1
+insert checklist data|101|2025-12-25|100806024|dca1
+insert image data|101|2025-12-25|100806024|dca1
+insert Sum data|a|101|2025-12-25|sum 61|total 66|92.42 %|dca1
+insert checklist data|204|2025-12-26|202501016|qsc1
+insert image data|204|2025-12-26|202501016|qsc1
+insert Sum data|a|204|2025-12-26|sum 45|total 45|100.00 %|qsc1
+insert checklist data|101|2025-12-26|100806024|dca1
+insert image data|101|2025-12-26|100806024|dca1
+insert Sum data|a|101|2025-12-26|sum 62|total 66|93.94 %|dca1
+insert checklist data|111|2025-12-26|100208002|qsc1
+insert image data|111|2025-12-26|100208002|qsc1
+insert Sum data|a|111|2025-12-26|sum 39|total 45|86.67 %|qsc1
+insert checklist data|255|2025-12-27|202101002|qscakg1
+insert image data|255|2025-12-27|202101002|qscakg1
+insert Sum data|a|255|2025-12-27|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|401|2025-12-27|202101002|qscmbe1
+insert image data|401|2025-12-27|202101002|qscmbe1
+insert Sum data|a|401|2025-12-27|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|125|2025-12-27|100808028|qsc1
+insert image data|125|2025-12-27|100808028|qsc1
+insert Sum data|a|125|2025-12-27|sum 26|total 27|96.30 %|qsc1
+insert checklist data|106|2025-12-27|100808028|qsc1
+insert image data|106|2025-12-27|100808028|qsc1
+insert Sum data|a|106|2025-12-27|sum 44|total 44|100.00 %|qsc1
+insert checklist data|123|2025-12-27|202501016|qsc1
+insert image data|123|2025-12-27|202501016|qsc1
+insert Sum data|a|123|2025-12-27|sum 43|total 43|100.00 %|qsc1
+insert checklist data|111|2025-12-27|100208002|qsc1
+insert image data|111|2025-12-27|100208002|qsc1
+insert Sum data|a|111|2025-12-27|sum 40|total 45|88.89 %|qsc1
+insert checklist data|201|2025-12-22|202501013|dca1
+insert image data|201|2025-12-22|202501013|dca1
+insert Sum data|a|201|2025-12-22|sum 47|total 61|77.05 %|dca1
+insert checklist data|201|2025-12-29|202501013|dca1
+insert image data|201|2025-12-29|202501013|dca1
+insert Sum data|a|201|2025-12-29|sum 44|total 61|72.13 %|dca1
+insert checklist data|256|2025-12-29|202101002|qscakg1
+insert image data|256|2025-12-29|202101002|qscakg1
+insert Sum data|a|256|2025-12-29|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|101|2025-12-29|100806024|dca1
+insert image data|101|2025-12-29|100806024|dca1
+insert Sum data|a|101|2025-12-29|sum 60|total 66|90.91 %|dca1
+insert checklist data|126|2025-12-29|100208002|qsc1
+insert image data|126|2025-12-29|100208002|qsc1
+insert Sum data|a|126|2025-12-29|sum 40|total 45|88.89 %|qsc1
+insert checklist data|251|2025-12-29|202101002|qscakg1
+insert image data|251|2025-12-29|202101002|qscakg1
+insert Sum data|a|251|2025-12-29|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|201|2025-12-29|202501016|qsc1
+insert image data|201|2025-12-29|202501016|qsc1
+insert Sum data|a|201|2025-12-29|sum 42|total 42|100.00 %|qsc1
+insert checklist data|101|2025-12-30|100806024|dca1
+insert image data|101|2025-12-30|100806024|dca1
+insert Sum data|a|101|2025-12-30|sum 60|total 66|90.91 %|dca1
+insert checklist data|123|2025-12-30|202501016|qsc1
+insert image data|123|2025-12-30|202501016|qsc1
+insert Sum data|a|123|2025-12-30|sum 42|total 42|100.00 %|qsc1
+insert checklist data|201|2025-12-31|202501013|dca1
+insert image data|201|2025-12-31|202501013|dca1
+insert Sum data|a|201|2025-12-31|sum 47|total 61|77.05 %|dca1
+insert checklist data|203|2025-12-31|202501013|dca1
+insert image data|203|2025-12-31|202501013|dca1
+insert Sum data|a|203|2025-12-31|sum 45|total 60|75.00 %|dca1
+insert checklist data|103|2026-01-01|100808028|qsc1
+insert image data|103|2026-01-01|100808028|qsc1
+insert Sum data|a|103|2026-01-01|sum 41|total 44|93.18 %|qsc1
+insert checklist data|401|2026-01-01|202101002|qscmbe1
+insert image data|401|2026-01-01|202101002|qscmbe1
+insert Sum data|a|401|2026-01-01|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|255|2026-01-01|202101002|qscakg1
+insert image data|255|2026-01-01|202101002|qscakg1
+insert Sum data|a|255|2026-01-01|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|256|2026-01-01|202101002|qscakg1
+insert image data|256|2026-01-01|202101002|qscakg1
+insert Sum data|a|256|2026-01-01|sum 32|total 34|94.12 %|qscakg1
+insert checklist data|251|2026-01-01|202101002|qscmbe1
+insert image data|251|2026-01-01|202101002|qscmbe1
+insert Sum data|a|251|2026-01-01|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|125|2026-01-02|100808028|qsc1
+insert image data|125|2026-01-02|100808028|qsc1
+insert Sum data|a|125|2026-01-02|sum 26|total 27|96.30 %|qsc1
+insert checklist data|255|2026-01-03|202101002|qscakg1
+insert image data|255|2026-01-03|202101002|qscakg1
+insert Sum data|a|255|2026-01-03|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|401|2026-01-03|202101002|qscmbe1
+insert image data|401|2026-01-03|202101002|qscmbe1
+insert Sum data|a|401|2026-01-03|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|256|2026-01-03|202101002|qscakg1
+insert image data|256|2026-01-03|202101002|qscakg1
+insert Sum data|a|256|2026-01-03|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|107|2025-12-22|101405020|dca1
+insert image data|107|2025-12-22|101405020|dca1
+insert Sum data|a|107|2025-12-22|sum 62|total 66|93.94 %|dca1
+insert checklist data|107|2026-01-03|101405020|dca1
+insert image data|107|2026-01-03|101405020|dca1
+insert Sum data|a|107|2026-01-03|sum 59|total 66|89.39 %|dca1
+insert checklist data|203|2025-12-31|202501013|dca1
+insert image data|203|2025-12-31|202501013|dca1
+insert Sum data|a|203|2025-12-31|sum 45|total 60|75.00 %|dca1
+insert checklist data|201|2026-01-04|202501013|dca1
+insert image data|201|2026-01-04|202501013|dca1
+insert Sum data|a|201|2026-01-04|sum 48|total 61|78.69 %|dca1
+insert checklist data|123|2026-01-04|202501016|qsc1
+insert image data|123|2026-01-04|202501016|qsc1
+insert Sum data|a|123|2026-01-04|sum 42|total 42|100.00 %|qsc1
+insert checklist data|123|2026-01-04|100806024|dca1
+insert image data|123|2026-01-04|100806024|dca1
+insert Sum data|a|123|2026-01-04|sum 58|total 61|95.08 %|dca1
+insert checklist data|103|2026-01-04|100808028|qsc1
+insert image data|103|2026-01-04|100808028|qsc1
+insert Sum data|a|103|2026-01-04|sum 42|total 44|95.45 %|qsc1
+insert checklist data|107|2026-01-03|101405020|dca1
+insert image data|107|2026-01-03|101405020|dca1
+insert Sum data|a|107|2026-01-03|sum 59|total 66|89.39 %|dca1
+insert checklist data|103|2026-01-04|101405020|dca1
+insert image data|103|2026-01-04|101405020|dca1
+insert Sum data|a|103|2026-01-04|sum 61|total 66|92.42 %|dca1
+insert checklist data|203|2026-01-05|202501013|dca1
+insert image data|203|2026-01-05|202501013|dca1
+insert Sum data|a|203|2026-01-05|sum 43|total 60|71.67 %|dca1
+insert checklist data|101|2026-01-05|100806024|dca1
+insert image data|101|2026-01-05|100806024|dca1
+insert Sum data|a|101|2026-01-05|sum 59|total 66|89.39 %|dca1
+insert checklist data|201|2026-01-05|202501016|qsc1
+insert image data|201|2026-01-05|202501016|qsc1
+insert Sum data|a|201|2026-01-05|sum 41|total 42|97.62 %|qsc1
+insert checklist data|203|2026-01-05|202501016|qsc1
+insert image data|203|2026-01-05|202501016|qsc1
+insert Sum data|a|203|2026-01-05|sum 43|total 43|100.00 %|qsc1
+insert checklist data|103|2026-01-04|101405020|dca1
+insert image data|103|2026-01-04|101405020|dca1
+insert Sum data|a|103|2026-01-04|sum 61|total 66|92.42 %|dca1
+insert checklist data|125|2026-01-06|101405020|dca1
+insert image data|125|2026-01-06|101405020|dca1
+insert Sum data|a|125|2026-01-06|sum 45|total 55|81.82 %|dca1
+insert checklist data|123|2026-01-06|202501016|qsc1
+insert image data|123|2026-01-06|202501016|qsc1
+insert Sum data|a|123|2026-01-06|sum 44|total 45|97.78 %|qsc1
+insert checklist data|123|2026-01-06|100806024|dca1
+insert image data|123|2026-01-06|100806024|dca1
+insert Sum data|a|123|2026-01-06|sum 50|total 54|92.59 %|dca1
+insert checklist data|203|2026-01-07|202501016|qsc1
+insert image data|203|2026-01-07|202501016|qsc1
+insert Sum data|a|203|2026-01-07|sum 42|total 42|100.00 %|qsc1
+insert checklist data|257|2026-01-07|202101002|qscakg1
+insert image data|257|2026-01-07|202101002|qscakg1
+insert Sum data|a|257|2026-01-07|sum 34|total 35|97.14 %|qscakg1
+insert checklist data|101|2026-01-07|100806024|dca1
+insert image data|101|2026-01-07|100806024|dca1
+insert Sum data|a|101|2026-01-07|sum 60|total 66|90.91 %|dca1
+insert checklist data|201|2026-01-08|202501016|qsc1
+insert image data|201|2026-01-08|202501016|qsc1
+insert Sum data|a|201|2026-01-08|sum 42|total 43|97.67 %|qsc1
+insert checklist data|252|2026-01-08|202101002|qscakg1
+insert image data|252|2026-01-08|202101002|qscakg1
+insert Sum data|a|252|2026-01-08|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|125|2026-01-09|100808028|qsc1
+insert image data|125|2026-01-09|100808028|qsc1
+insert Sum data|a|125|2026-01-09|sum 25|total 27|92.59 %|qsc1
+insert checklist data|123|2026-01-09|100806024|dca1
+insert image data|123|2026-01-09|100806024|dca1
+insert Sum data|a|123|2026-01-09|sum 54|total 58|93.10 %|dca1
+insert checklist data|106|2026-01-09|100808028|qsc1
+insert image data|106|2026-01-09|100808028|qsc1
+insert Sum data|a|106|2026-01-09|sum 44|total 44|100.00 %|qsc1
+insert checklist data|101|2026-01-10|100806024|dca1
+insert image data|101|2026-01-10|100806024|dca1
+insert Sum data|a|101|2026-01-10|sum 61|total 66|92.42 %|dca1
+insert checklist data|125|2026-01-06|101405020|dca1
+insert image data|125|2026-01-06|101405020|dca1
+insert Sum data|a|125|2026-01-06|sum 45|total 55|81.82 %|dca1
+insert checklist data|107|2026-01-10|101405020|dca1
+insert image data|107|2026-01-10|101405020|dca1
+insert Sum data|a|107|2026-01-10|sum 60|total 66|90.91 %|dca1
+insert checklist data|103|2026-01-10|100808028|qsc1
+insert image data|103|2026-01-10|100808028|qsc1
+insert Sum data|a|103|2026-01-10|sum 42|total 44|95.45 %|qsc1
+insert checklist data|255|2026-01-10|202101002|qscakg1
+insert image data|255|2026-01-10|202101002|qscakg1
+insert Sum data|a|255|2026-01-10|sum 32|total 34|94.12 %|qscakg1
+insert checklist data|401|2026-01-10|202101002|qscmbe1
+insert image data|401|2026-01-10|202101002|qscmbe1
+insert Sum data|a|401|2026-01-10|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|251|2026-01-10|202101002|qscakg1
+insert image data|251|2026-01-10|202101002|qscakg1
+insert Sum data|a|251|2026-01-10|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|201|2026-01-11|202501016|qsc1
+insert image data|201|2026-01-11|202501016|qsc1
+insert Sum data|a|201|2026-01-11|sum 43|total 44|97.73 %|qsc1
+insert checklist data|123|2026-01-11|202501016|qsc1
+insert image data|123|2026-01-11|202501016|qsc1
+insert Sum data|a|123|2026-01-11|sum 43|total 43|100.00 %|qsc1
+insert checklist data|201|2026-01-12|202501016|qsc1
+insert image data|201|2026-01-12|202501016|qsc1
+insert Sum data|a|201|2026-01-12|sum 45|total 45|100.00 %|qsc1
+insert checklist data|256|2026-01-12|202101002|qscakg1
+insert image data|256|2026-01-12|202101002|qscakg1
+insert Sum data|a|256|2026-01-12|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|401|2026-01-12|202101002|qscakg1
+insert image data|401|2026-01-12|202101002|qscakg1
+insert Sum data|a|401|2026-01-12|sum 34|total 34|100.00 %|qscakg1
+insert checklist data|255|2026-01-12|202101002|qscakg1
+insert image data|255|2026-01-12|202101002|qscakg1
+insert Sum data|a|255|2026-01-12|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|123|2026-01-13|202501016|qsc1
+insert image data|123|2026-01-13|202501016|qsc1
+insert Sum data|a|123|2026-01-13|sum 45|total 45|100.00 %|qsc1
+insert checklist data|201|2026-01-13|202501013|dca1
+insert image data|201|2026-01-13|202501013|dca1
+insert Sum data|a|201|2026-01-13|sum 49|total 61|80.33 %|dca1
+insert checklist data|123|2026-01-13|100806024|dca1
+insert image data|123|2026-01-13|100806024|dca1
+insert Sum data|a|123|2026-01-13|sum 53|total 57|92.98 %|dca1
+insert checklist data|105|2026-01-14|100806024|dca1
+insert image data|105|2026-01-14|100806024|dca1
+insert Sum data|a|105|2026-01-14|sum 61|total 66|92.42 %|dca1
+insert checklist data|123|2026-01-15|202501016|qsc1
+insert image data|123|2026-01-15|202501016|qsc1
+insert Sum data|a|123|2026-01-15|sum 45|total 45|100.00 %|qsc1
+insert checklist data|105|2026-01-15|100806024|dca1
+insert image data|105|2026-01-15|100806024|dca1
+insert Sum data|a|105|2026-01-15|sum 62|total 66|93.94 %|dca1
+insert checklist data|203|2026-01-15|202501016|qsc1
+insert image data|203|2026-01-15|202501016|qsc1
+insert Sum data|a|203|2026-01-15|sum 43|total 43|100.00 %|qsc1
+insert checklist data|203|2026-01-15|202501013|dca1
+insert image data|203|2026-01-15|202501013|dca1
+insert Sum data|a|203|2026-01-15|sum 43|total 60|71.67 %|dca1
+insert checklist data|257|2026-01-16|202101002|qscakg1
+insert image data|257|2026-01-16|202101002|qscakg1
+insert Sum data|a|257|2026-01-16|sum 34|total 35|97.14 %|qscakg1
+insert checklist data|123|2026-01-16|100806024|dca1
+insert image data|123|2026-01-16|100806024|dca1
+insert Sum data|a|123|2026-01-16|sum 57|total 61|93.44 %|dca1
+insert checklist data|101|2026-01-17|100806024|dca1
+insert image data|101|2026-01-17|100806024|dca1
+insert Sum data|a|101|2026-01-17|sum 60|total 66|90.91 %|dca1
+insert checklist data|107|2026-01-10|101405020|dca1
+insert image data|107|2026-01-10|101405020|dca1
+insert Sum data|a|107|2026-01-10|sum 60|total 66|90.91 %|dca1
+insert checklist data|125|2026-01-17|101405020|dca1
+insert image data|125|2026-01-17|101405020|dca1
+insert Sum data|a|125|2026-01-17|sum 49|total 54|90.74 %|dca1
+insert checklist data|257|2026-01-18|202101002|qscakg1
+insert image data|257|2026-01-18|202101002|qscakg1
+insert Sum data|a|257|2026-01-18|sum 34|total 35|97.14 %|qscakg1
+insert checklist data|103|2026-01-18|100808028|qsc1
+insert image data|103|2026-01-18|100808028|qsc1
+insert Sum data|a|103|2026-01-18|sum 42|total 44|95.45 %|qsc1
+insert checklist data|201|2026-01-19|202501013|dca1
+insert image data|201|2026-01-19|202501013|dca1
+insert Sum data|a|201|2026-01-19|sum 51|total 61|83.61 %|dca1
+insert checklist data|125|2026-01-17|101405020|dca1
+insert image data|125|2026-01-17|101405020|dca1
+insert Sum data|a|125|2026-01-17|sum 49|total 54|90.74 %|dca1
+insert checklist data|107|2026-01-19|101405020|dca1
+insert image data|107|2026-01-19|101405020|dca1
+insert Sum data|a|107|2026-01-19|sum 60|total 66|90.91 %|dca1
+insert checklist data|203|2026-01-19|202501016|qsc1
+insert image data|203|2026-01-19|202501016|qsc1
+insert Sum data|a|203|2026-01-19|sum 42|total 42|100.00 %|qsc1
+insert checklist data|123|2026-01-19|100806024|dca1
+insert image data|123|2026-01-19|100806024|dca1
+insert Sum data|a|123|2026-01-19|sum 51|total 57|89.47 %|dca1
+insert checklist data|204|2026-01-19|202501016|qsc1
+insert image data|204|2026-01-19|202501016|qsc1
+insert Sum data|a|204|2026-01-19|sum 41|total 42|97.62 %|qsc1
+insert checklist data|125|2026-01-19|100808028|qsc1
+insert image data|125|2026-01-19|100808028|qsc1
+insert Sum data|a|125|2026-01-19|sum 25|total 26|96.15 %|qsc1
+insert checklist data|107|2026-01-19|101405020|dca1
+insert image data|107|2026-01-19|101405020|dca1
+insert Sum data|a|107|2026-01-19|sum 60|total 66|90.91 %|dca1
+insert checklist data|107|2026-01-20|100808028|qsc1
+insert image data|107|2026-01-20|100808028|qsc1
+insert Sum data|a|107|2026-01-20|sum 41|total 44|93.18 %|qsc1
+insert checklist data|257|2026-01-18|202101002|qscakg1
+insert image data|257|2026-01-18|202101002|qscakg1
+insert Sum data|a|257|2026-01-18|sum 34|total 35|97.14 %|qscakg1
+insert checklist data|257|2026-01-21|202101002|qscakg1
+insert image data|257|2026-01-21|202101002|qscakg1
+insert Sum data|a|257|2026-01-21|sum 34|total 35|97.14 %|qscakg1
+insert checklist data|111|2026-01-21|101412039|bcl1
+insert image data|111|2026-01-21|101412039|bcl1
+insert Sum data|a|111|2026-01-21|sum 37|total 43|86.05 %|bcl1
+insert checklist data|107|2026-01-19|101405020|dca1
+insert image data|107|2026-01-19|101405020|dca1
+insert Sum data|a|107|2026-01-19|sum 60|total 66|90.91 %|dca1
+insert checklist data|125|2026-01-22|101412039|bcl1
+insert image data|125|2026-01-22|101412039|bcl1
+insert Sum data|a|125|2026-01-22|sum 35|total 40|87.50 %|bcl1
+insert checklist data|103|2026-01-22|101405020|dca1
+insert image data|103|2026-01-22|101405020|dca1
+insert Sum data|a|103|2026-01-22|sum 60|total 66|90.91 %|dca1
+insert checklist data|201|2026-01-22|202501016|qsc1
+insert image data|201|2026-01-22|202501016|qsc1
+insert Sum data|a|201|2026-01-22|sum 45|total 45|100.00 %|qsc1
+insert checklist data|204|2026-01-22|101412039|bcl1
+insert image data|204|2026-01-22|101412039|bcl1
+insert Sum data|a|204|2026-01-22|sum 35|total 41|85.37 %|bcl1
+insert checklist data|106|2026-01-22|101412039|bcl1
+insert image data|106|2026-01-22|101412039|bcl1
+insert Sum data|a|106|2026-01-22|sum 40|total 43|93.02 %|bcl1
+insert checklist data|116|2026-01-22|111910006|bcl1
+insert image data|116|2026-01-22|111910006|bcl1
+insert Sum data|a|116|2026-01-22|sum 44|total 45|97.78 %|bcl1
+insert checklist data|106|2026-01-22|100808028|qsc1
+insert image data|106|2026-01-22|100808028|qsc1
+insert Sum data|a|106|2026-01-22|sum 43|total 44|97.73 %|qsc1
+insert checklist data|105|2026-01-23|101412039|bcl1
+insert image data|105|2026-01-23|101412039|bcl1
+insert Sum data|a|105|2026-01-23|sum 34|total 43|79.07 %|bcl1
+insert checklist data|107|2026-01-23|100808028|qsc1
+insert image data|107|2026-01-23|100808028|qsc1
+insert Sum data|a|107|2026-01-23|sum 39|total 44|88.64 %|qsc1
+insert checklist data|203|2026-01-23|202501016|qsc1
+insert image data|203|2026-01-23|202501016|qsc1
+insert Sum data|a|203|2026-01-23|sum 43|total 43|100.00 %|qsc1
+insert checklist data|201|2026-01-23|101412039|bcl1
+insert image data|201|2026-01-23|101412039|bcl1
+insert Sum data|a|201|2026-01-23|sum 34|total 38|89.47 %|bcl1
+insert checklist data|203|2026-01-23|101412039|bcl1
+insert image data|203|2026-01-23|101412039|bcl1
+insert Sum data|a|203|2026-01-23|sum 36|total 40|90.00 %|bcl1
+insert checklist data|103|2026-01-23|100808028|qsc1
+insert image data|103|2026-01-23|100808028|qsc1
+insert Sum data|a|103|2026-01-23|sum 42|total 44|95.45 %|qsc1
+insert checklist data|401|2026-01-24|202101002|qscmbe1
+insert image data|401|2026-01-24|202101002|qscmbe1
+insert Sum data|a|401|2026-01-24|sum 34|total 34|100.00 %|qscmbe1
+insert checklist data|255|2026-01-24|202101002|qscakg1
+insert image data|255|2026-01-24|202101002|qscakg1
+insert Sum data|a|255|2026-01-24|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|105|2026-01-24|100806024|dca1
+insert image data|105|2026-01-24|100806024|dca1
+insert Sum data|a|105|2026-01-24|sum 60|total 66|90.91 %|dca1
+insert checklist data|101|2026-01-24|100808028|qsc1
+insert image data|101|2026-01-24|100808028|qsc1
+insert Sum data|a|101|2026-01-24|sum 42|total 44|95.45 %|qsc1
+insert checklist data|125|2026-01-24|100808028|qsc1
+insert image data|125|2026-01-24|100808028|qsc1
+insert Sum data|a|125|2026-01-24|sum 27|total 28|96.43 %|qsc1
+insert checklist data|112|2026-01-24|101412039|bcl1
+insert image data|112|2026-01-24|101412039|bcl1
+insert Sum data|a|112|2026-01-24|sum 39|total 44|88.64 %|bcl1
+insert checklist data|106|2026-01-24|100808028|qsc1
+insert image data|106|2026-01-24|100808028|qsc1
+insert Sum data|a|106|2026-01-24|sum 43|total 44|97.73 %|qsc1
+insert checklist data|103|2026-01-22|101405020|dca1
+insert image data|103|2026-01-22|101405020|dca1
+insert Sum data|a|103|2026-01-22|sum 60|total 66|90.91 %|dca1
+insert checklist data|123|2026-01-25|202501016|qsc1
+insert image data|123|2026-01-25|202501016|qsc1
+insert Sum data|a|123|2026-01-25|sum 44|total 44|100.00 %|qsc1
+insert checklist data|106|2026-01-25|101405020|dca1
+insert image data|106|2026-01-25|101405020|dca1
+insert Sum data|a|106|2026-01-25|sum 63|total 66|95.45 %|dca1
+insert checklist data|123|2026-01-25|100806024|dca1
+insert image data|123|2026-01-25|100806024|dca1
+insert Sum data|a|123|2026-01-25|sum 63|total 66|95.45 %|dca1
+insert checklist data|106|2026-01-25|101405020|dca1
+insert image data|106|2026-01-25|101405020|dca1
+insert Sum data|a|106|2026-01-25|sum 63|total 66|95.45 %|dca1
+insert checklist data|125|2026-01-26|101405020|dca1
+insert image data|125|2026-01-26|101405020|dca1
+insert Sum data|a|125|2026-01-26|sum 53|total 56|94.64 %|dca1
+insert checklist data|103|2026-01-26|100808028|qsc1
+insert image data|103|2026-01-26|100808028|qsc1
+insert Sum data|a|103|2026-01-26|sum 42|total 44|95.45 %|qsc1
+insert checklist data|125|2026-01-26|101405020|dca1
+insert image data|125|2026-01-26|101405020|dca1
+insert Sum data|a|125|2026-01-26|sum 53|total 56|94.64 %|dca1
+insert checklist data|101|2026-01-27|100806024|dca1
+insert image data|101|2026-01-27|100806024|dca1
+insert Sum data|a|101|2026-01-27|sum 62|total 66|93.94 %|dca1
+insert checklist data|257|2026-01-28|202101002|qscakg1
+insert image data|257|2026-01-28|202101002|qscakg1
+insert Sum data|a|257|2026-01-28|sum 34|total 35|97.14 %|qscakg1
+insert checklist data|116|2026-01-28|111910006|qsc1
+insert image data|116|2026-01-28|111910006|qsc1
+insert Sum data|a|116|2026-01-28|sum 42|total 46|91.30 %|qsc1
+insert checklist data|103|2026-01-28|101412039|bcl1
+insert image data|103|2026-01-28|101412039|bcl1
+insert Sum data|a|103|2026-01-28|sum 37|total 43|86.05 %|bcl1
+insert checklist data|123|2026-01-28|100806024|dca1
+insert image data|123|2026-01-28|100806024|dca1
+insert Sum data|a|123|2026-01-28|sum 63|total 66|95.45 %|dca1
+insert checklist data|107|2026-01-28|101412039|bcl1
+insert image data|107|2026-01-28|101412039|bcl1
+insert Sum data|a|107|2026-01-28|sum 37|total 42|88.10 %|bcl1
+insert checklist data|103|2026-01-28|100808028|qsc1
+insert image data|103|2026-01-28|100808028|qsc1
+insert Sum data|a|103|2026-01-28|sum 42|total 44|95.45 %|qsc1
+insert checklist data|201|2026-01-29|202501016|qsc1
+insert image data|201|2026-01-29|202501016|qsc1
+insert Sum data|a|201|2026-01-29|sum 41|total 43|95.35 %|qsc1
+insert checklist data|125|2026-01-29|100808028|qsc1
+insert image data|125|2026-01-29|100808028|qsc1
+insert Sum data|a|125|2026-01-29|sum 27|total 27|100.00 %|qsc1
+insert checklist data|101|2026-01-29|100808028|qsc1
+insert image data|101|2026-01-29|100808028|qsc1
+insert Sum data|a|101|2026-01-29|sum 43|total 44|97.73 %|qsc1
+insert checklist data|106|2026-01-29|100808028|qsc1
+insert image data|106|2026-01-29|100808028|qsc1
+insert Sum data|a|106|2026-01-29|sum 44|total 44|100.00 %|qsc1
+insert checklist data|105|2026-01-29|100806024|dca1
+insert image data|105|2026-01-29|100806024|dca1
+insert Sum data|a|105|2026-01-29|sum 62|total 65|95.38 %|dca1
+insert checklist data|123|2026-01-30|100806024|dca1
+insert image data|123|2026-01-30|100806024|dca1
+insert Sum data|a|123|2026-01-30|sum 61|total 66|92.42 %|dca1
+insert checklist data|126|2026-01-31|101412039|bcl1
+insert image data|126|2026-01-31|101412039|bcl1
+insert Sum data|a|126|2026-01-31|sum 39|total 44|88.64 %|bcl1
+insert checklist data|107|2026-01-31|100808028|qsc1
+insert image data|107|2026-01-31|100808028|qsc1
+insert Sum data|a|107|2026-01-31|sum 42|total 44|95.45 %|qsc1
+insert checklist data|101|2026-02-02|100806024|dca1
+insert image data|101|2026-02-02|100806024|dca1
+insert Sum data|a|101|2026-02-02|sum 59|total 66|89.39 %|dca1
+insert checklist data|401|2026-02-02|202101002|qscmbe1
+insert image data|401|2026-02-02|202101002|qscmbe1
+insert Sum data|a|401|2026-02-02|sum 33|total 34|97.06 %|qscmbe1
+insert checklist data|255|2026-02-02|202101002|qscakg1
+insert image data|255|2026-02-02|202101002|qscakg1
+insert Sum data|a|255|2026-02-02|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|125|2026-02-03|100808028|qsc1
+insert image data|125|2026-02-03|100808028|qsc1
+insert Sum data|a|125|2026-02-03|sum 27|total 29|93.10 %|qsc1
+insert checklist data|106|2026-02-03|100808028|qsc1
+insert image data|106|2026-02-03|100808028|qsc1
+insert Sum data|a|106|2026-02-03|sum 44|total 44|100.00 %|qsc1
+insert checklist data|103|2026-02-03|101405020|dca1
+insert image data|103|2026-02-03|101405020|dca1
+insert Sum data|a|103|2026-02-03|sum 62|total 66|93.94 %|dca1
+insert checklist data|103|2026-02-03|100808028|qsc1
+insert image data|103|2026-02-03|100808028|qsc1
+insert Sum data|a|103|2026-02-03|sum 42|total 44|95.45 %|qsc1
+insert checklist data|123|2026-02-04|100806024|dca1
+insert image data|123|2026-02-04|100806024|dca1
+insert Sum data|a|123|2026-02-04|sum 61|total 66|92.42 %|dca1
+insert checklist data|201|2026-02-05|202501013|dca1
+insert image data|201|2026-02-05|202501013|dca1
+insert Sum data|a|201|2026-02-05|sum 46|total 61|75.41 %|dca1
+insert checklist data|103|2026-02-03|101405020|dca1
+insert image data|103|2026-02-03|101405020|dca1
+insert Sum data|a|103|2026-02-03|sum 62|total 66|93.94 %|dca1
+insert checklist data|125|2026-02-05|101405020|dca1
+insert image data|125|2026-02-05|101405020|dca1
+insert Sum data|a|125|2026-02-05|sum 52|total 54|96.30 %|dca1
+insert checklist data|107|2026-02-05|100808028|qsc1
+insert image data|107|2026-02-05|100808028|qsc1
+insert Sum data|a|107|2026-02-05|sum 41|total 44|93.18 %|qsc1
+insert checklist data|125|2026-02-05|101405020|dca1
+insert image data|125|2026-02-05|101405020|dca1
+insert Sum data|a|125|2026-02-05|sum 52|total 54|96.30 %|dca1
+insert checklist data|103|2026-02-05|100808028|qsc1
+insert image data|103|2026-02-05|100808028|qsc1
+insert Sum data|a|103|2026-02-05|sum 41|total 44|93.18 %|qsc1
+insert checklist data|256|2026-02-05|202101002|qscakg1
+insert image data|256|2026-02-05|202101002|qscakg1
+insert Sum data|a|256|2026-02-05|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|123|2026-02-06|101412039|bcl1
+insert image data|123|2026-02-06|101412039|bcl1
+insert Sum data|a|123|2026-02-06|sum 35|total 40|87.50 %|bcl1
+insert checklist data|203|2026-02-06|202501016|qsc1
+insert image data|203|2026-02-06|202501016|qsc1
+insert Sum data|a|203|2026-02-06|sum 43|total 43|100.00 %|qsc1
+insert checklist data|103|2026-02-06|100808028|qsc1
+insert image data|103|2026-02-06|100808028|qsc1
+insert Sum data|a|103|2026-02-06|sum 41|total 44|93.18 %|qsc1
+insert checklist data|101|2026-02-07|100808028|qsc1
+insert image data|101|2026-02-07|100808028|qsc1
+insert Sum data|a|101|2026-02-07|sum 40|total 44|90.91 %|qsc1
+insert checklist data|125|2026-02-07|100808028|qsc1
+insert image data|125|2026-02-07|100808028|qsc1
+insert Sum data|a|125|2026-02-07|sum 26|total 27|96.30 %|qsc1
+insert checklist data|105|2026-02-07|100806024|dca1
+insert image data|105|2026-02-07|100806024|dca1
+insert Sum data|a|105|2026-02-07|sum 63|total 66|95.45 %|dca1
+insert checklist data|106|2026-02-07|100808028|qsc1
+insert image data|106|2026-02-07|100808028|qsc1
+insert Sum data|a|106|2026-02-07|sum 44|total 44|100.00 %|qsc1
+insert checklist data|101|2026-02-08|100806024|dca1
+insert image data|101|2026-02-08|100806024|dca1
+insert Sum data|a|101|2026-02-08|sum 60|total 66|90.91 %|dca1
+insert checklist data|103|2026-02-08|100808028|qsc1
+insert image data|103|2026-02-08|100808028|qsc1
+insert Sum data|a|103|2026-02-08|sum 41|total 44|93.18 %|qsc1
+insert checklist data|257|2026-01-28|202101002|qscakg1
+insert image data|257|2026-01-28|202101002|qscakg1
+insert Sum data|a|257|2026-01-28|sum 34|total 35|97.14 %|qscakg1
+insert checklist data|103|2026-02-09|100808028|qsc1
+insert image data|103|2026-02-09|100808028|qsc1
+insert Sum data|a|103|2026-02-09|sum 41|total 44|93.18 %|qsc1
+insert checklist data|204|2026-02-10|202501016|qsc1
+insert image data|204|2026-02-10|202501016|qsc1
+insert Sum data|a|204|2026-02-10|sum 44|total 45|97.78 %|qsc1
+insert checklist data|123|2026-02-10|100806024|dca1
+insert image data|123|2026-02-10|100806024|dca1
+insert Sum data|a|123|2026-02-10|sum 62|total 66|93.94 %|dca1
+insert checklist data|106|2026-02-12|101405020|dca1
+insert image data|106|2026-02-12|101405020|dca1
+insert Sum data|a|106|2026-02-12|sum 62|total 66|93.94 %|dca1
+insert checklist data|123|2026-02-12|100806024|dca1
+insert image data|123|2026-02-12|100806024|dca1
+insert Sum data|a|123|2026-02-12|sum 52|total 57|91.23 %|dca1
+insert checklist data|201|2026-02-13|202501013|dca1
+insert image data|201|2026-02-13|202501013|dca1
+insert Sum data|a|201|2026-02-13|sum 45|total 60|75.00 %|dca1
+insert checklist data|123|2026-02-14|202501016|qsc1
+insert image data|123|2026-02-14|202501016|qsc1
+insert Sum data|a|123|2026-02-14|sum 41|total 41|100.00 %|qsc1
+insert checklist data|201|2026-02-14|202501016|qsc1
+insert image data|201|2026-02-14|202501016|qsc1
+insert Sum data|a|201|2026-02-14|sum 40|total 41|97.56 %|qsc1
+insert checklist data|253|2026-02-14|202101002|qscakg1
+insert image data|253|2026-02-14|202101002|qscakg1
+insert Sum data|a|253|2026-02-14|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|123|2026-02-16|100806024|dca1
+insert image data|123|2026-02-16|100806024|dca1
+insert Sum data|a|123|2026-02-16|sum 60|total 66|90.91 %|dca1
+insert checklist data|105|2026-02-17|100806024|dca1
+insert image data|105|2026-02-17|100806024|dca1
+insert Sum data|a|105|2026-02-17|sum 61|total 66|92.42 %|dca1
+insert checklist data|101|2026-02-18|101412039|bcl1
+insert image data|101|2026-02-18|101412039|bcl1
+insert Sum data|a|101|2026-02-18|sum 39|total 43|90.70 %|bcl1
+insert checklist data|106|2026-02-18|100808028|qsc1
+insert image data|106|2026-02-18|100808028|qsc1
+insert Sum data|a|106|2026-02-18|sum 42|total 44|95.45 %|qsc1
+insert checklist data|125|2026-02-18|100808028|qsc1
+insert image data|125|2026-02-18|100808028|qsc1
+insert Sum data|a|125|2026-02-18|sum 28|total 29|96.55 %|qsc1
+insert checklist data|203|2026-02-18|202501013|dca1
+insert image data|203|2026-02-18|202501013|dca1
+insert Sum data|a|203|2026-02-18|sum 45|total 59|76.27 %|dca1
+insert checklist data|203|2026-02-18|202501013|dca1
+insert image data|203|2026-02-18|202501013|dca1
+insert Sum data|a|203|2026-02-18|sum 45|total 59|76.27 %|dca1
+insert checklist data|203|2026-02-18|202501013|dca1
+insert image data|203|2026-02-18|202501013|dca1
+insert Sum data|a|203|2026-02-18|sum 40|total 60|66.67 %|dca1
+insert checklist data|103|2026-02-19|100808028|qsc1
+insert image data|103|2026-02-19|100808028|qsc1
+insert Sum data|a|103|2026-02-19|sum 41|total 44|93.18 %|qsc1
+insert checklist data|125|2026-02-21|100808028|qsc1
+insert image data|125|2026-02-21|100808028|qsc1
+insert Sum data|a|125|2026-02-21|sum 28|total 29|96.55 %|qsc1
+insert checklist data|101|2026-02-21|100806024|dca1
+insert image data|101|2026-02-21|100806024|dca1
+insert Sum data|a|101|2026-02-21|sum 60|total 66|90.91 %|dca1
+insert checklist data|126|2026-02-21|101412039|bcl1
+insert image data|126|2026-02-21|101412039|bcl1
+insert Sum data|a|126|2026-02-21|sum 39|total 44|88.64 %|bcl1
+insert checklist data|106|2026-02-21|100808028|qsc1
+insert image data|106|2026-02-21|100808028|qsc1
+insert Sum data|a|106|2026-02-21|sum 43|total 44|97.73 %|qsc1
+insert checklist data|105|2026-02-21|101412039|bcl1
+insert image data|105|2026-02-21|101412039|bcl1
+insert Sum data|a|105|2026-02-21|sum 38|total 43|88.37 %|bcl1
+insert checklist data|257|2026-02-21|202101002|qscakg1
+insert image data|257|2026-02-21|202101002|qscakg1
+insert Sum data|a|257|2026-02-21|sum 34|total 35|97.14 %|qscakg1
+insert checklist data|123|2026-02-22|100806024|dca1
+insert image data|123|2026-02-22|100806024|dca1
+insert Sum data|a|123|2026-02-22|sum 53|total 58|91.38 %|dca1
+insert checklist data|101|2026-02-22|100808028|qsc1
+insert image data|101|2026-02-22|100808028|qsc1
+insert Sum data|a|101|2026-02-22|sum 36|total 44|81.82 %|qsc1
+insert checklist data|107|2026-02-22|100808028|qsc1
+insert image data|107|2026-02-22|100808028|qsc1
+insert Sum data|a|107|2026-02-22|sum 39|total 44|88.64 %|qsc1
+insert checklist data|204|2026-02-23|202501016|qsc1
+insert image data|204|2026-02-23|202501016|qsc1
+insert Sum data|a|204|2026-02-23|sum 40|total 41|97.56 %|qsc1
+insert checklist data|125|2026-02-25|100808028|qsc1
+insert image data|125|2026-02-25|100808028|qsc1
+insert Sum data|a|125|2026-02-25|sum 28|total 29|96.55 %|qsc1
+insert checklist data|106|2026-02-25|100808028|qsc1
+insert image data|106|2026-02-25|100808028|qsc1
+insert Sum data|a|106|2026-02-25|sum 43|total 44|97.73 %|qsc1
+insert checklist data|103|2026-02-25|101405020|dca1
+insert image data|103|2026-02-25|101405020|dca1
+insert Sum data|a|103|2026-02-25|sum 60|total 66|90.91 %|dca1
+insert checklist data|116|2026-02-26|111910006|bcl1
+insert image data|116|2026-02-26|111910006|bcl1
+insert Sum data|a|116|2026-02-26|sum 44|total 45|97.78 %|bcl1
+insert checklist data|103|2026-02-28|100808028|qsc1
+insert image data|103|2026-02-28|100808028|qsc1
+insert Sum data|a|103|2026-02-28|sum 41|total 44|93.18 %|qsc1
+insert checklist data|112|2026-02-28|101412039|bcl1
+insert image data|112|2026-02-28|101412039|bcl1
+insert Sum data|a|112|2026-02-28|sum 39|total 44|88.64 %|bcl1
+insert checklist data|101|2026-02-28|100808028|qsc1
+insert image data|101|2026-02-28|100808028|qsc1
+insert Sum data|a|101|2026-02-28|sum 40|total 44|90.91 %|qsc1
+insert checklist data|107|2026-02-28|100808028|qsc1
+insert image data|107|2026-02-28|100808028|qsc1
+insert Sum data|a|107|2026-02-28|sum 40|total 44|90.91 %|qsc1
+insert checklist data|125|2026-03-01|101412039|bcl1
+insert image data|125|2026-03-01|101412039|bcl1
+insert Sum data|a|125|2026-03-01|sum 37|total 39|94.87 %|bcl1
+insert checklist data|103|2026-02-25|101405020|dca1
+insert image data|103|2026-02-25|101405020|dca1
+insert Sum data|a|103|2026-02-25|sum 60|total 66|90.91 %|dca1
+insert checklist data|125|2026-03-01|101405020|dca1
+insert image data|125|2026-03-01|101405020|dca1
+insert Sum data|a|125|2026-03-01|sum 52|total 54|96.30 %|dca1
+insert checklist data|204|2026-03-01|101412039|bcl1
+insert image data|204|2026-03-01|101412039|bcl1
+insert Sum data|a|204|2026-03-01|sum 35|total 40|87.50 %|bcl1
+insert checklist data|125|2026-03-01|100808028|qsc1
+insert image data|125|2026-03-01|100808028|qsc1
+insert Sum data|a|125|2026-03-01|sum 26|total 27|96.30 %|qsc1
+insert checklist data|125|2026-03-01|101405020|dca1
+insert image data|125|2026-03-01|101405020|dca1
+insert Sum data|a|125|2026-03-01|sum 52|total 54|96.30 %|dca1
+insert checklist data|106|2026-03-01|101412039|bcl1
+insert image data|106|2026-03-01|101412039|bcl1
+insert Sum data|a|106|2026-03-01|sum 41|total 43|95.35 %|bcl1
+insert checklist data|106|2026-03-01|100808028|qsc1
+insert image data|106|2026-03-01|100808028|qsc1
+insert Sum data|a|106|2026-03-01|sum 42|total 44|95.45 %|qsc1
+insert checklist data|107|2026-03-02|101412039|bcl1
+insert image data|107|2026-03-02|101412039|bcl1
+insert Sum data|a|107|2026-03-02|sum 38|total 42|90.48 %|bcl1
+insert checklist data|203|2026-03-02|101412039|bcl1
+insert image data|203|2026-03-02|101412039|bcl1
+insert Sum data|a|203|2026-03-02|sum 36|total 40|90.00 %|bcl1
+insert checklist data|103|2026-03-02|101412039|bcl1
+insert image data|103|2026-03-02|101412039|bcl1
+insert Sum data|a|103|2026-03-02|sum 37|total 43|86.05 %|bcl1
+insert checklist data|101|2026-03-02|100806024|dca1
+insert image data|101|2026-03-02|100806024|dca1
+insert Sum data|a|101|2026-03-02|sum 60|total 66|90.91 %|dca1
+insert checklist data|103|2026-03-03|100808028|qsc1
+insert image data|103|2026-03-03|100808028|qsc1
+insert Sum data|a|103|2026-03-03|sum 39|total 44|88.64 %|qsc1
+insert checklist data|123|2026-03-04|100806024|dca1
+insert image data|123|2026-03-04|100806024|dca1
+insert Sum data|a|123|2026-03-04|sum 53|total 58|91.38 %|dca1
+insert checklist data|125|2026-03-05|100808028|qsc1
+insert image data|125|2026-03-05|100808028|qsc1
+insert Sum data|a|125|2026-03-05|sum 26|total 27|96.30 %|qsc1
+insert checklist data|201|2026-03-05|202501013|dca1
+insert image data|201|2026-03-05|202501013|dca1
+insert Sum data|a|201|2026-03-05|sum 47|total 61|77.05 %|dca1
+insert checklist data|203|2026-03-05|202501016|qsc1
+insert image data|203|2026-03-05|202501016|qsc1
+insert Sum data|a|203|2026-03-05|sum 41|total 42|97.62 %|qsc1
+insert checklist data|103|2026-03-06|100808028|qsc1
+insert image data|103|2026-03-06|100808028|qsc1
+insert Sum data|a|103|2026-03-06|sum 41|total 44|93.18 %|qsc1
+insert checklist data|201|2026-03-09|202501013|dca1
+insert image data|201|2026-03-09|202501013|dca1
+insert Sum data|a|201|2026-03-09|sum 50|total 61|81.97 %|dca1
+insert checklist data|107|2026-03-09|101405020|dca1
+insert image data|107|2026-03-09|101405020|dca1
+insert Sum data|a|107|2026-03-09|sum 61|total 66|92.42 %|dca1
+insert checklist data|260|2026-03-10|202101002|qscakg1
+insert image data|260|2026-03-10|202101002|qscakg1
+insert Sum data|a|260|2026-03-10|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|101|2026-03-11|100806024|dca1
+insert image data|101|2026-03-11|100806024|dca1
+insert Sum data|a|101|2026-03-11|sum 61|total 66|92.42 %|dca1
+insert checklist data|107|2026-03-13|100808028|qsc1
+insert image data|107|2026-03-13|100808028|qsc1
+insert Sum data|a|107|2026-03-13|sum 37|total 44|84.09 %|qsc1
+insert checklist data|123|2026-03-13|100806024|dca1
+insert image data|123|2026-03-13|100806024|dca1
+insert Sum data|a|123|2026-03-13|sum 51|total 55|92.73 %|dca1
+insert checklist data|101|2026-03-14|100808028|qsc1
+insert image data|101|2026-03-14|100808028|qsc1
+insert Sum data|a|101|2026-03-14|sum 39|total 44|88.64 %|qsc1
+insert checklist data|125|2026-03-14|100808028|qsc1
+insert image data|125|2026-03-14|100808028|qsc1
+insert Sum data|a|125|2026-03-14|sum 26|total 27|96.30 %|qsc1
+insert checklist data|106|2026-03-14|100808028|qsc1
+insert image data|106|2026-03-14|100808028|qsc1
+insert Sum data|a|106|2026-03-14|sum 42|total 44|95.45 %|qsc1
+insert checklist data|101|2026-03-14|100806024|dca1
+insert image data|101|2026-03-14|100806024|dca1
+insert Sum data|a|101|2026-03-14|sum 61|total 66|92.42 %|dca1
+insert checklist data|103|2026-03-15|100808028|qsc1
+insert image data|103|2026-03-15|100808028|qsc1
+insert Sum data|a|103|2026-03-15|sum 41|total 44|93.18 %|qsc1
+insert checklist data|101|2026-03-16|100806024|dca1
+insert image data|101|2026-03-16|100806024|dca1
+insert Sum data|a|101|2026-03-16|sum 60|total 66|90.91 %|dca1
+insert checklist data|401|2026-03-18|202101002|qscmbe1
+insert image data|401|2026-03-18|202101002|qscmbe1
+insert Sum data|a|401|2026-03-18|sum 35|total 35|100.00 %|qscmbe1
+insert checklist data|255|2026-03-18|202101002|qscakg1
+insert image data|255|2026-03-18|202101002|qscakg1
+insert Sum data|a|255|2026-03-18|sum 33|total 34|97.06 %|qscakg1
+insert checklist data|123|2026-03-18|100806024|dca1
+insert image data|123|2026-03-18|100806024|dca1
+insert Sum data|a|123|2026-03-18|sum 57|total 62|91.94 %|dca1
+insert checklist data|125|2026-03-19|100808028|qsc1
+insert image data|125|2026-03-19|100808028|qsc1
+insert Sum data|a|125|2026-03-19|sum 26|total 27|96.30 %|qsc1
+insert checklist data|101|2026-03-19|100808028|qsc1
+insert image data|101|2026-03-19|100808028|qsc1
+insert Sum data|a|101|2026-03-19|sum 38|total 43|88.37 %|qsc1
+insert checklist data|125|2026-03-19|101405020|dca1
+insert image data|125|2026-03-19|101405020|dca1
+insert Sum data|a|125|2026-03-19|sum 50|total 56|89.29 %|dca1
