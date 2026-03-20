@@ -9,8 +9,8 @@
               </a>
             </li>
             <ol class="breadcrumb float-sm-end">
-                  <li class="breadcrumb-item"><a href="/online/index.php/langswitch/switchlanguage/english">EN</a></li>
-                  <li class="breadcrumb-item"><a href="/online/index.php/langswitch/switchlanguage/thailand">TH</a></li>
+                  <li class="breadcrumb-item"><a href="/online_inter/index.php/langswitch/switchlanguage/english">EN</a></li>
+                  <li class="breadcrumb-item"><a href="/online_inter/index.php/langswitch/switchlanguage/thailand">TH</a></li>
                 </ol>
           </ul>
           <!--end::Start Navbar Links-->
@@ -41,9 +41,9 @@
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
                 <?php 
                 $ucode = $_SESSION['f_user_code'];
-                $fname = "./././online/img/avatar/$ucode.jpg";
-                $serverPath = $_SERVER['DOCUMENT_ROOT'] . "/online/img/avatar/$ucode.jpg";
-                $fname2 = "/online/img/avatar/$ucode.jpg";
+                $fname = "./././online_inter/img/avatar/$ucode.jpg";
+                $serverPath = $_SERVER['DOCUMENT_ROOT'] . "/online_inter/img/avatar/$ucode.jpg";
+                $fname2 = "/online_inter/img/avatar/$ucode.jpg";
                // echo file_exists($fname);die();
                 if (file_exists($serverPath)) { ?>
                     <img
@@ -53,7 +53,7 @@
                                 />
                 <?php } else { ?>
                   <img
-                                  src="/online/img/avatar/logo.png"
+                                  src="/online_inter/img/avatar/logo.png"
                                   class="user-image rounded-circle shadow"
                                   alt="User Image"
                                 />
@@ -70,7 +70,7 @@
                 <!--begin::User Image-->
                 <li class="user-header text-bg-primary">
                     <img
-                                  src="<?php if (file_exists($serverPath)) {  echo $fname2; } else {echo "/online/img/avatar/logo.png";}?>"
+                                  src="<?php if (file_exists($serverPath)) {  echo $fname2; } else {echo "/online_inter/img/avatar/logo.png";}?>"
                 
                     class="rounded-circle shadow"
                     alt="User Image"

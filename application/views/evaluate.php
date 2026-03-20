@@ -32,7 +32,7 @@ $this->lang->load("form_input",$_SESSION['slang']);
     />
     <!--end::Third Party Plugin(Bootstrap Icons)-->
     <!--begin::Required Plugin(AdminLTE)-->
-    <link rel="stylesheet" href="/online/css/adminlte.css" />
+    <link rel="stylesheet" href="/online_inter/css/adminlte.css" />
     <!--end::Required Plugin(AdminLTE)-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
@@ -153,7 +153,7 @@ $this->lang->load("form_input",$_SESSION['slang']);
                             <td><?php echo $q;?></td>
                             <td><?php echo $value['module_name']; ?></td>
                             <td><?php echo $value['date']; ?></td>
-                            <td><a href="/online/index.php/training/evaluate_test/<?php echo $value['details']['0']['f_user_code'];?>/<?php echo $value['details']['0']['f_cert_code'];?>/199/<?php echo $eva[1];?>"><?php 
+                            <td><a href="/online_inter/index.php/training/evaluate_test/<?php echo $value['details']['0']['f_user_code'];?>/<?php echo $value['details']['0']['f_cert_code'];?>/199/<?php echo $eva[1];?>"><?php 
                               if(strpos($value['details']['0']['f_course_code'],'_') === false){echo $value['details']['0']['f_percenttage'];}
                               ?></a>
                             </td>
@@ -307,7 +307,7 @@ $this->lang->load("form_input",$_SESSION['slang']);
       crossorigin="anonymous"
     ></script>
     <!--end::Required Plugin(Bootstrap 5)--><!--begin::Required Plugin(AdminLTE)-->
-    <script src="/online/js/adminlte.js"></script>
+    <script src="/online_inter/js/adminlte.js"></script>
     <!--end::Required Plugin(AdminLTE)--><!--begin::OverlayScrollbars Configure-->
     <script>
       const SELECTOR_SIDEBAR_WRAPPER = '.sidebar-wrapper';
@@ -388,7 +388,7 @@ $this->lang->load("form_input",$_SESSION['slang']);
         }
 
 
-        $.get('http://10.0.1.88/online_staging/online/getcert.php?province_id=' + provinceId, function(data){
+        $.get('http://10.0.1.88/online_staging/online_inter/getcert.php?province_id=' + provinceId, function(data){
             var result = JSON.parse(data);
             $.each(result, function(index, item){
                 amphureObject.append(

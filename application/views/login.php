@@ -144,7 +144,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           </a>
            <div class="card-body login-card-body col-12">
           <img class="login-box-msg"
-                  src="/online/img/naragroup_logo.jpeg"
+                  src="/online_inter/img/naragroup_logo.jpeg"
                 />
                 <p class="login-box-msg">Nara Group Online </p>
 </div>

@@ -32,7 +32,7 @@ $this->lang->load("form_input",$_SESSION['slang']);
     />
     <!--end::Third Party Plugin(Bootstrap Icons)-->
     <!--begin::Required Plugin(AdminLTE)-->
-    <link rel="stylesheet" href="/online/css/adminlte.css" />
+    <link rel="stylesheet" href="/online_inter/css/adminlte.css" />
     <!--end::Required Plugin(AdminLTE)-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
@@ -60,7 +60,7 @@ $this->lang->load("form_input",$_SESSION['slang']);
                       <?php foreach($personalInfo as $info=>$value1){?>
                 <!--begin::User Image-->
                 <li class="user-header text-bg-primary">
-                  <img src="/online/img/avatar/logo.png" class="rounded-circle shadow" alt="User Image" width="150" height="150">
+                  <img src="/online_inter/img/avatar/logo.png" class="rounded-circle shadow" alt="User Image" width="150" height="150">
                   <p align="center">
                     <?php if ($_SESSION['slang'] == 'english'){ 
                       
@@ -223,7 +223,7 @@ $this->lang->load("form_input",$_SESSION['slang']);
       crossorigin="anonymous"
     ></script>
     <!--end::Required Plugin(Bootstrap 5)--><!--begin::Required Plugin(AdminLTE)-->
-    <script src="/online/js/adminlte.js"></script>
+    <script src="/online_inter/js/adminlte.js"></script>
     <!--end::Required Plugin(AdminLTE)--><!--begin::OverlayScrollbars Configure-->
     <script>
       const SELECTOR_SIDEBAR_WRAPPER = '.sidebar-wrapper';

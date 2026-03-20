@@ -7,7 +7,7 @@ Update version 1.1
 -   สามารถเลือกช่วงเวลาได้โดยไม่ต้องเปลี่ยนแปลงข้อมูล
 -   มีการเก็บ Temp ช่องกดดูข้อมูลตอนตรวจ
 -   Update Database (17/11/68)
-`LINK ระบบ <http://10.0.1.88/online/>`_
+`LINK ระบบ <http://10.0.1.88/online_inter/>`_
 
 *********
 Training Record

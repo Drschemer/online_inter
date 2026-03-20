@@ -5,7 +5,7 @@
           <a href="./index.html" class="brand-link">
             <!--begin::Brand Image-->
             <img
-              src="/online/img/newlogo.jpg"
+              src="/online_inter/img/newlogo.jpg"
               alt="NARA Logo"
               class="brand-image opacity-75 shadow"
             />
@@ -59,7 +59,7 @@
                         </a>
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a href="/online/index.php/login/getgraph/102501054/7/qsc1/888" class="nav-link">
+                            <a href="/online_inter/index.php/login/getgraph/102501054/7/qsc1/888" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                               <p>Area Service Checklist</p>
                             </a>
@@ -76,7 +76,7 @@
                         </a>  
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a href="/online/index.php/login/getgraph/102201018/7/bcl1/555" class="nav-link">
+                            <a href="/online_inter/index.php/login/getgraph/102201018/7/bcl1/555" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                               <p>Area Bar/Dessert CheckList</p>
                             </a>
@@ -91,7 +91,7 @@
                          
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a href="/online/index.php/login/getgraph/102501054/7/dca1/666" class="nav-link">
+                            <a href="/online_inter/index.php/login/getgraph/102501054/7/dca1/666" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                               <p>Area Kitchen Checklist</p>
                             </a>
@@ -108,13 +108,13 @@
                         </a>  
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a href="/online/index.php/login/getgraph/102501054/7/qsce1/666" class="nav-link">
+                            <a href="/online_inter/index.php/login/getgraph/102501054/7/qsce1/666" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                               <p>QSC Evaluation FSC</p>
                             </a>
                           </li>
                           <li class="nav-item">
-                            <a href="/online/index.php/login/getgraph/102501054/7/qsce2/666" class="nav-link">
+                            <a href="/online_inter/index.php/login/getgraph/102501054/7/qsce2/666" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                               <p>QSC Evaluation FSS</p>
                             </a>
@@ -129,7 +129,7 @@
                         </a>
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a  href="/online/index.php/login/getgraph/102501054/7/qscakg1/888" class="nav-link">
+                            <a  href="/online_inter/index.php/login/getgraph/102501054/7/qscakg1/888" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                               <p>Area Service Checklist (AKG)</p>
                             </a>
@@ -144,7 +144,7 @@
                         </a>
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a  href="/online/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/qscmbe1/888" class="nav-link">
+                            <a  href="/online_inter/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/qscmbe1/888" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                                <p><?php echo $this->lang->line('subsidemenul26');?></p>
                             </a>
@@ -169,13 +169,13 @@
                         </a>
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a  href="/online/index.php/training/course/" class="nav-link">
+                            <a  href="/online_inter/index.php/training/course/" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                                <p><?php echo $this->lang->line('subsidemenutrainingmodule');?></p>
                             </a>
                           </li>
                           <li class="nav-item">
-                            <a  href="/online/index.php/training/dashboard/<?php echo $_SESSION['f_user_code']; ?>" class="nav-link">
+                            <a  href="/online_inter/index.php/training/dashboard/<?php echo $_SESSION['f_user_code']; ?>" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                                <p><?php echo $this->lang->line('subsidemenutrainingprofile');?></p>
                             </a>
@@ -189,13 +189,13 @@
                         </a>
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a  href="/online/index.php/training/evaluate/" class="nav-link">
+                            <a  href="/online_inter/index.php/training/evaluate/" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                                <p><?php echo $this->lang->line('subsidemenutrainingeva');?></p>
                             </a>
                           </li>
                           <li class="nav-item">
-                            <a  href="/online/index.php/training/evaluate_test/" class="nav-link">
+                            <a  href="/online_inter/index.php/training/evaluate_test/" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                                <p><?php echo $this->lang->line('evaluate_test');?></p>
                             </a>
@@ -224,7 +224,7 @@
                         </a>
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a  href="/online/index.php/report/trainingreport" class="nav-link">
+                            <a  href="/online_inter/index.php/report/trainingreport" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                               <p><?php echo $this->lang->line('subsidemenu41');?></p>
                             </a>
@@ -238,7 +238,7 @@
                         </a>
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a  href="/online_staging/online/index.php/training/evaluate/" class="nav-link">
+                            <a  href="/online_staging/online_inter/index.php/training/evaluate/" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                               <p>coming soon!!!</p>
                             </a>
@@ -298,7 +298,7 @@
                         </a>
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a  href="/online/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/qsc1/<?php echo $_SESSION['f_branch_code'];?>" class="nav-link">
+                            <a  href="/online_inter/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/qsc1/<?php echo $_SESSION['f_branch_code'];?>" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                               <p>Area Service Checklist</p>
                             </a>
@@ -317,7 +317,7 @@
                          
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a  href="/online/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/bcl1/<?php echo $_SESSION['f_branch_code'];?>" class="nav-link">
+                            <a  href="/online_inter/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/bcl1/<?php echo $_SESSION['f_branch_code'];?>" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                               <p>Area Bar/Dessert CheckList</p>
                             </a>
@@ -334,7 +334,7 @@
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           
                           <li class="nav-item">
-                            <a href="/online/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/dca1/<?php echo $_SESSION['f_branch_code'];?>" class="nav-link">
+                            <a href="/online_inter/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/dca1/<?php echo $_SESSION['f_branch_code'];?>" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                                <p><?php echo $this->lang->line('subsidemenul23');?></p>
                             </a>
@@ -356,14 +356,14 @@
                          <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <?php if(in_array(4,$_SESSION['sidebarPermittion'])){ ?>
                           <li class="nav-item">
-                            <a href="/online/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/qsce1/<?php echo $_SESSION['f_branch_code'];?>" class="nav-link">
+                            <a href="/online_inter/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/qsce1/<?php echo $_SESSION['f_branch_code'];?>" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                                <p><?php echo $this->lang->line('subsidemenul24');?></p>
                             </a>
                           </li>
                           <?php  } if(in_array(6,$_SESSION['sidebarPermittion'])){ ?>
                              <li class="nav-item">
-                            <a href="/online/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/qsce2/<?php echo $_SESSION['f_branch_code'];?>" class="nav-link">
+                            <a href="/online_inter/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/qsce2/<?php echo $_SESSION['f_branch_code'];?>" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                               <p>QSC Evaluation FSS</p>
                             </a>
@@ -381,7 +381,7 @@
                         </a>
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a  href="/online/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/qscakg1/<?php echo $_SESSION['f_branch_code'];?>" class="nav-link">
+                            <a  href="/online_inter/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/qscakg1/<?php echo $_SESSION['f_branch_code'];?>" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                                <p><?php echo $this->lang->line('subsidemenul25');?></p>
                             </a>
@@ -398,7 +398,7 @@
                         </a>
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a  href="/online/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/qscmbe1/<?php echo $_SESSION['f_branch_code'];?>" class="nav-link">
+                            <a  href="/online_inter/index.php/login/getgraph/<?php echo $_SESSION['f_user_code'];?>/7/qscmbe1/<?php echo $_SESSION['f_branch_code'];?>" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                                <p><?php echo $this->lang->line('subsidemenul26');?></p>
                             </a>
@@ -426,13 +426,13 @@
                         </a>
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a  href="/online/index.php/training/course/" class="nav-link">
+                            <a  href="/online_inter/index.php/training/course/" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                                <p><?php echo $this->lang->line('subsidemenutrainingmodule');?></p>
                             </a>
                           </li>
                           <li class="nav-item">
-                            <a  href="/online/index.php/training/dashboard/<?php echo $_SESSION['f_user_code']; ?>" class="nav-link">
+                            <a  href="/online_inter/index.php/training/dashboard/<?php echo $_SESSION['f_user_code']; ?>" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                                <p><?php echo $this->lang->line('subsidemenutrainingprofile');?></p>
                             </a>
@@ -446,13 +446,13 @@
                         </a>
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a  href="/online/index.php/training/evaluate/" class="nav-link">
+                            <a  href="/online_inter/index.php/training/evaluate/" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                                <p><?php echo $this->lang->line('subsidemenutrainingeva');?></p>
                             </a>
                           </li>
                           <li class="nav-item">
-                            <a  href="/online/index.php/training/evaluate_test/" class="nav-link">
+                            <a  href="/online_inter/index.php/training/evaluate_test/" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                                <p><?php echo $this->lang->line('evaluate_test');?></p>
                             </a>
@@ -482,7 +482,7 @@
                         </a>
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a  href="/online/index.php/report/trainingreport" class="nav-link">
+                            <a  href="/online_inter/index.php/report/trainingreport" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                               <p><?php echo $this->lang->line('subsidemenu41');?></p>
                             </a>
@@ -496,7 +496,7 @@
                         </a>
                         <ul class="nav nav-treeview" style="display: none; box-sizing: border-box;">
                           <li class="nav-item">
-                            <a  href="/online_staging/online/index.php/training/evaluate/" class="nav-link">
+                            <a  href="/online_staging/online_inter/index.php/training/evaluate/" class="nav-link">
                               <i class="nav-icon bi bi-record-circle-fill"></i>
                               <p>coming soon!!!</p>
                             </a>

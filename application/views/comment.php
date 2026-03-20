@@ -32,7 +32,7 @@
       />
       <!--end::Third Party Plugin(Bootstrap Icons)-->
       <!--begin::Required Plugin(AdminLTE)-->
-      <link rel="stylesheet" href="/online/css/adminlte.css" />
+      <link rel="stylesheet" href="/online_inter/css/adminlte.css" />
       <!--end::Required Plugin(AdminLTE)-->
 
   </head>
@@ -327,7 +327,7 @@
                       $img_path = 'f_image_path_'.$o;
                       //echo $field.'/'.$img_path;
                       if($img->$field){
-                        echo " --> "."<img src='http://10.0.1.88/online/img/area_service_checklist/".$img->$img_path."' class='user-image rounded-square shadow' alt='Image' width='300px' hight='200px' onclick='onClick(this)' class='w3-hover-opacity'>";
+                        echo " --> "."<img src='http://10.0.1.88/online_inter/img/area_service_checklist/".$img->$img_path."' class='user-image rounded-square shadow' alt='Image' width='300px' hight='200px' onclick='onClick(this)' class='w3-hover-opacity'>";
                       }
                      }
 
@@ -382,7 +382,7 @@
         crossorigin="anonymous"
       ></script>
       <!--end::Required Plugin(Bootstrap 5)--><!--begin::Required Plugin(AdminLTE)-->
-      <script src="/online/js/adminlte.js"></script>
+      <script src="/online_inter/js/adminlte.js"></script>
       <!--end::Required Plugin(AdminLTE)--><!--begin::OverlayScrollbars Configure-->
       <script>
         const SELECTOR_SIDEBAR_WRAPPER = '.sidebar-wrapper';

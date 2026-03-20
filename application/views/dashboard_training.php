@@ -31,7 +31,7 @@ $this->lang->load("form_input",$_SESSION['slang']);
     />
     <!--end::Third Party Plugin(Bootstrap Icons)-->
     <!--begin::Required Plugin(AdminLTE)-->
-    <link rel="stylesheet" href="/online/css/adminlte.css" />
+    <link rel="stylesheet" href="/online_inter/css/adminlte.css" />
     <!--end::Required Plugin(AdminLTE)-->
 
 </head>
@@ -92,7 +92,7 @@ $this->lang->load("form_input",$_SESSION['slang']);
                       <h3 class="timeline-header no-border">
                         ได้รับการอบรมเรื่อง <a href="#"><?php echo $info->f_topic_name; ?></a> || <b><font color='blue'>Trained</font></b> 
                         <?php if($info->f_image){
-                        echo " --> "."<img src='http://10.0.1.88/online_staging/online/img/training/".$info->f_image."' class='user-image rounded-square shadow' alt='Image' width='300px' hight='200px' onclick='onClick(this)' class='w3-hover-opacity'>";
+                        echo " --> "."<img src='http://10.0.1.88/online_staging/online_inter/img/training/".$info->f_image."' class='user-image rounded-square shadow' alt='Image' width='300px' hight='200px' onclick='onClick(this)' class='w3-hover-opacity'>";
                       } ?>
                       </h3>
                     </div>
@@ -151,7 +151,7 @@ $this->lang->load("form_input",$_SESSION['slang']);
       crossorigin="anonymous"
     ></script>
     <!--end::Required Plugin(Bootstrap 5)--><!--begin::Required Plugin(AdminLTE)-->
-    <script src="/online/js/adminlte.js"></script>
+    <script src="/online_inter/js/adminlte.js"></script>
     <!--end::Required Plugin(AdminLTE)--><!--begin::OverlayScrollbars Configure-->
     <script>
       const SELECTOR_SIDEBAR_WRAPPER = '.sidebar-wrapper';

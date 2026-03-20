@@ -31,7 +31,7 @@ $this->lang->load("form_input",$_SESSION['slang']);
     />
     <!--end::Third Party Plugin(Bootstrap Icons)-->
     <!--begin::Required Plugin(AdminLTE)-->
-    <link rel="stylesheet" href="/online/css/adminlte.css" />
+    <link rel="stylesheet" href="/online_inter/css/adminlte.css" />
     <!--end::Required Plugin(AdminLTE)-->
 
 </head>
@@ -97,7 +97,7 @@ $this->lang->load("form_input",$_SESSION['slang']);
                     width="150" 
                     height="150"
                     style="vertical-align: middle;">
-                            <a class="btn fw-bold fs-7 text-secondary text-truncate w-100 p-0" href="/online/index.php/training/evaluate_person/<?php echo $value3->f_user_code;?>">
+                            <a class="btn fw-bold fs-7 text-secondary text-truncate w-100 p-0" href="/online_inter/index.php/training/evaluate_person/<?php echo $value3->f_user_code;?>">
                               <?php if ($_SESSION['slang'] == 'english'){ 
                      echo $value3->f_name_en ;
                       } else {
@@ -165,7 +165,7 @@ $this->lang->load("form_input",$_SESSION['slang']);
       crossorigin="anonymous"
     ></script>
     <!--end::Required Plugin(Bootstrap 5)--><!--begin::Required Plugin(AdminLTE)-->
-    <script src="/online/js/adminlte.js"></script>
+    <script src="/online_inter/js/adminlte.js"></script>
     <!--end::Required Plugin(AdminLTE)--><!--begin::OverlayScrollbars Configure-->
     <script>
       const SELECTOR_SIDEBAR_WRAPPER = '.sidebar-wrapper';
